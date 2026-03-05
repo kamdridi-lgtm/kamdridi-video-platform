@@ -12,7 +12,7 @@
 
 body{
 margin:0;
-font-family:Arial, Helvetica, sans-serif;
+font-family:Arial;
 background:#0a0a0a;
 color:white;
 }
@@ -22,81 +22,31 @@ display:flex;
 justify-content:space-between;
 padding:20px 40px;
 background:black;
-position:sticky;
-top:0;
 }
 
 .logo{
 color:#f5c518;
 font-weight:bold;
-font-size:20px;
+font-size:22px;
 }
 
 .hero{
-height:90vh;
+height:80vh;
 display:flex;
 align-items:center;
 justify-content:center;
 text-align:center;
-padding:40px;
-background:linear-gradient(180deg,#000,#111);
+background:#0a0a0a;
 }
 
 .hero h1{
 font-size:60px;
-margin-bottom:20px;
-}
-
-.hero p{
-font-size:20px;
-color:#aaa;
-max-width:600px;
-margin:auto;
-}
-
-.btn{
-background:#f5c518;
-padding:14px 30px;
-color:black;
-text-decoration:none;
-font-weight:bold;
-border-radius:5px;
-display:inline-block;
-margin-top:30px;
 }
 
 .section{
-padding:100px 40px;
+padding:80px 40px;
 max-width:1200px;
 margin:auto;
-}
-
-.section-title{
-font-size:40px;
-text-align:center;
-margin-bottom:20px;
-}
-
-.section-subtitle{
-text-align:center;
-color:#aaa;
-margin-bottom:60px;
-}
-
-.video-grid{
-display:grid;
-grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
-gap:30px;
-}
-
-.video-box{
-background:#111;
-height:220px;
-display:flex;
-align-items:center;
-justify-content:center;
-font-size:20px;
-color:#777;
 }
 
 .pricing-grid{
@@ -112,29 +62,10 @@ border-radius:10px;
 text-align:center;
 }
 
-.price-card.featured{
-border:2px solid #f5c518;
-}
-
-.package-name{
-font-size:22px;
-margin-bottom:10px;
-}
-
 .price{
 font-size:40px;
 color:#f5c518;
-margin-bottom:20px;
-}
-
-.features{
-text-align:left;
-margin:30px 0;
-}
-
-.features li{
-margin-bottom:10px;
-color:#bbb;
+margin:20px 0;
 }
 
 .buy-btn{
@@ -144,6 +75,7 @@ padding:14px 30px;
 text-decoration:none;
 font-weight:bold;
 display:inline-block;
+margin-top:20px;
 border-radius:6px;
 }
 
@@ -151,7 +83,6 @@ footer{
 text-align:center;
 padding:40px;
 background:black;
-color:#777;
 }
 
 </style>
@@ -162,12 +93,7 @@ color:#777;
 
 <nav>
 
-<div class="logo">⚡ KAMDRIDI</div>
-
-<div>
-<a href="#portfolio" style="color:white;margin-right:20px;">Portfolio</a>
-<a href="#pricing" style="color:white;">Pricing</a>
-</div>
+<div class="logo">⚡ KAMDRIDI VISUALS</div>
 
 </nav>
 
@@ -177,116 +103,78 @@ color:#777;
 
 <h1>Cinematic AI Music Videos</h1>
 
-<p>
-Generate professional cinematic visuals for your music.
-No filming. No crew. Just powerful AI visuals.
-</p>
-
-<a href="#pricing" class="btn">Start Creating</a>
+<p>Create powerful AI visuals for your music</p>
 
 </div>
 
 </section>
 
+<section class="section">
 
-<section id="portfolio" class="section">
-
-<h2 class="section-title">Visual Portfolio</h2>
-
-<p class="section-subtitle">
-Examples of cinematic AI visuals
-</p>
-
-<div class="video-grid">
-
-<div class="video-box">Video Example</div>
-<div class="video-box">Video Example</div>
-<div class="video-box">Video Example</div>
-<div class="video-box">Video Example</div>
-
-</div>
-
-</section>
-
-
-<section id="pricing" class="section">
-
-<h2 class="section-title">Choose Your Package</h2>
-
-<p class="section-subtitle">
-Professional cinematic AI visuals
-</p>
+<h2>Production Packages</h2>
 
 <div class="pricing-grid">
 
 <div class="price-card">
 
-<div class="package-name">Teaser</div>
+<h3>Teaser</h3>
+
+<p>Short cinematic teaser for promotion</p>
 
 <div class="price">$300</div>
 
-<ul class="features">
-<li>Short cinematic teaser</li>
-<li>Perfect for social media</li>
-<li>1080p video</li>
-<li>Fast delivery</li>
-</ul>
+<a href="https://buy.stripe.com/cNicN50KIg8AdMY6E0eE007" class="buy-btn">
 
-<a href="TON LIEN STRIPE 300" class="buy-btn">
 Buy Now
+
 </a>
 
 </div>
 
-
-<div class="price-card featured">
-
-<div class="package-name">Music Video</div>
-
-<div class="price">$1500</div>
-
-<ul class="features">
-<li>Full cinematic music video</li>
-<li>Multiple scenes</li>
-<li>4K visuals</li>
-<li>Unlimited revisions</li>
-</ul>
-
-<a href="TON LIEN STRIPE 1500" class="buy-btn">
-Buy Now
-</a>
-
-</div>
 
 
 <div class="price-card">
 
-<div class="package-name">Visual Album</div>
+<h3>AI Music Video</h3>
 
-<div class="price">$5000</div>
+<p>Full cinematic AI music video</p>
 
-<ul class="features">
-<li>Complete visual album</li>
-<li>Up to 20 cinematic scenes</li>
-<li>4K ultra visuals</li>
-<li>Full creative direction</li>
-</ul>
+<div class="price">$1500</div>
 
-<a href="https://buy.stripe.com/cNi9AT8da4ps38k1jGeE008" class="buy-btn">
+<a href="https://buy.stripe.com/14A8wP9he2hKer29QCeE009" class="buy-btn">
+
 Buy Now
+
 </a>
 
 </div>
+
+
+
+<div class="price-card">
+
+<h3>Visual Album Production</h3>
+
+<p>Complete cinematic album experience</p>
+
+<div class="price">$5000</div>
+
+<a href="https://buy.stripe.com/cNi9AT8da4ps38k1jGeE008" class="buy-btn">
+
+Buy Now
+
+</a>
+
+</div>
+
 
 </div>
 
 </section>
 
-
 <footer>
 
-© 2026 KAMDRIDI AI Visuals  
-Heavy. Cinematic. Unearthed.
+© KAMDRIDI Visual Studio
 
 </footer>
 
