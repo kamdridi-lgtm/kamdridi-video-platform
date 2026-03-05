@@ -1,629 +1,177 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>KAMDRIDI AI Visuals - Cinematic Video Generation</title>
-    <script src="https://js.stripe.com/v3/"></script>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        
-        :root {
-            --gold: #d4af37;
-            --red: #ff4444;
-            --dark: #0a0a0a;
-            --gray: #1a1a1a;
-            --light: #999;
-        }
-        
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            background: var(--dark);
-            color: #fff;
-            overflow-x: hidden;
-        }
-        
-        /* Navigation */
-        nav {
-            position: fixed;
-            top: 0;
-            width: 100%;
-            background: rgba(10, 10, 10, 0.95);
-            backdrop-filter: blur(20px);
-            z-index: 1000;
-            border-bottom: 1px solid rgba(212, 175, 55, 0.1);
-        }
-        
-        .nav-container {
-            max-width: 1400px;
-            margin: 0 auto;
-            padding: 20px 40px;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-        
-        .logo {
-            font-size: 24px;
-            font-weight: bold;
-            letter-spacing: 3px;
-            color: var(--gold);
-            text-shadow: 0 0 20px var(--gold);
-        }
-        
-        .nav-links {
-            display: flex;
-            gap: 40px;
-            align-items: center;
-        }
-        
-        .nav-links a {
-            color: var(--light);
-            text-decoration: none;
-            font-size: 14px;
-            font-weight: 500;
-            transition: color 0.3s;
-        }
-        
-        .nav-links a:hover {
-            color: var(--gold);
-        }
-        
-        .btn-primary {
-            background: var(--gold);
-            color: #000;
-            padding: 12px 30px;
-            border-radius: 50px;
-            font-weight: bold;
-            border: none;
-            cursor: pointer;
-            transition: all 0.3s;
-            text-decoration: none;
-            display: inline-block;
-        }
-        
-        .btn-primary:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 10px 30px rgba(212, 175, 55, 0.4);
-        }
-        
-        /* Hero Section */
-        .hero {
-            min-height: 100vh;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            text-align: center;
-            padding: 100px 20px 80px;
-            position: relative;
-            overflow: hidden;
-        }
-        
-        .hero::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            background: radial-gradient(circle at 50% 50%, rgba(212, 175, 55, 0.05), transparent 70%);
-        }
-        
-        .hero-content {
-            max-width: 900px;
-            position: relative;
-            z-index: 1;
-        }
-        
-        .hero h1 {
-            font-size: 72px;
-            font-weight: 900;
-            line-height: 1.1;
-            margin-bottom: 30px;
-            background: linear-gradient(135deg, #fff, var(--gold));
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-        }
-        
-        .hero p {
-            font-size: 24px;
-            color: var(--light);
-            margin-bottom: 50px;
-            line-height: 1.6;
-        }
-        
-        .cta-group {
-            display: flex;
-            gap: 20px;
-            justify-content: center;
-            flex-wrap: wrap;
-        }
-        
-        .btn-large {
-            padding: 20px 50px;
-            font-size: 18px;
-            border-radius: 50px;
-            font-weight: bold;
-            border: none;
-            cursor: pointer;
-            transition: all 0.3s;
-            text-decoration: none;
-            display: inline-block;
-        }
-        
-        .btn-secondary {
-            background: transparent;
-            color: var(--gold);
-            border: 2px solid var(--gold);
-        }
-        
-        .btn-secondary:hover {
-            background: var(--gold);
-            color: #000;
-        }
-        
-        /* Features Grid */
-        .features {
-            padding: 120px 40px;
-            max-width: 1400px;
-            margin: 0 auto;
-        }
-        
-        .section-title {
-            text-align: center;
-            font-size: 48px;
-            margin-bottom: 20px;
-            color: var(--gold);
-        }
-        
-        .section-subtitle {
-            text-align: center;
-            font-size: 20px;
-            color: var(--light);
-            margin-bottom: 80px;
-        }
-        
-        .features-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 40px;
-        }
-        
-        .feature-card {
-            background: var(--gray);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            border-radius: 20px;
-            padding: 40px;
-            transition: all 0.3s;
-        }
-        
-        .feature-card:hover {
-            transform: translateY(-5px);
-            border-color: var(--gold);
-            box-shadow: 0 20px 40px rgba(212, 175, 55, 0.2);
-        }
-        
-        .feature-icon {
-            font-size: 48px;
-            margin-bottom: 20px;
-        }
-        
-        .feature-card h3 {
-            font-size: 24px;
-            margin-bottom: 15px;
-            color: #fff;
-        }
-        
-        .feature-card p {
-            color: var(--light);
-            line-height: 1.6;
-        }
-        
-        /* Video Showcase */
-        .showcase {
-            background: linear-gradient(180deg, var(--dark) 0%, var(--gray) 100%);
-            padding: 120px 40px;
-        }
-        
-        .video-grid {
-            max-width: 1400px;
-            margin: 0 auto;
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-            gap: 30px;
-            margin-top: 80px;
-        }
-        
-        .video-card {
-            aspect-ratio: 16/9;
-            background: linear-gradient(135deg, #1a1a1a, #2a2a2a);
-            border-radius: 15px;
-            overflow: hidden;
-            position: relative;
-            border: 2px solid rgba(255, 255, 255, 0.05);
-            transition: all 0.3s;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 64px;
-        }
-        
-        .video-card:hover {
-            transform: scale(1.03);
-            border-color: var(--gold);
-            box-shadow: 0 20px 50px rgba(212, 175, 55, 0.3);
-        }
-        
-        /* Pricing */
-        .pricing {
-            padding: 120px 40px;
-            max-width: 1400px;
-            margin: 0 auto;
-        }
-        
-        .pricing-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-            gap: 40px;
-            margin-top: 80px;
-        }
-        
-        .price-card {
-            background: var(--gray);
-            border: 2px solid rgba(255, 255, 255, 0.1);
-            border-radius: 20px;
-            padding: 50px;
-            position: relative;
-            transition: all 0.3s;
-        }
-        
-        .price-card.featured {
-            border-color: var(--gold);
-            transform: scale(1.05);
-        }
-        
-        .price-card:hover {
-            transform: scale(1.08);
-            box-shadow: 0 30px 60px rgba(212, 175, 55, 0.3);
-        }
-        
-        .badge {
-            position: absolute;
-            top: 20px;
-            right: 20px;
-            background: var(--gold);
-            color: #000;
-            padding: 8px 20px;
-            border-radius: 20px;
-            font-size: 12px;
-            font-weight: bold;
-        }
-        
-        .package-name {
-            font-size: 16px;
-            color: var(--gold);
-            font-weight: bold;
-            letter-spacing: 2px;
-            margin-bottom: 10px;
-        }
-        
-        .price {
-            font-size: 64px;
-            font-weight: bold;
-            margin-bottom: 10px;
-        }
-        
-        .price span {
-            font-size: 24px;
-            color: var(--light);
-        }
-        
-        .price-description {
-            color: var(--light);
-            margin-bottom: 40px;
-            line-height: 1.6;
-        }
-        
-        .features-list {
-            list-style: none;
-            margin-bottom: 40px;
-        }
-        
-        .features-list li {
-            padding: 15px 0;
-            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
-            color: var(--light);
-        }
-        
-        .features-list li::before {
-            content: '✓';
-            color: var(--gold);
-            font-weight: bold;
-            margin-right: 15px;
-        }
-        
-        .buy-btn {
-            width: 100%;
-            padding: 20px;
-            background: var(--gold);
-            color: #000;
-            border: none;
-            border-radius: 10px;
-            font-size: 18px;
-            font-weight: bold;
-            cursor: pointer;
-            transition: all 0.3s;
-        }
-        
-        .buy-btn:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 10px 30px rgba(212, 175, 55, 0.5);
-        }
-        
-        /* CTA Section */
-        .cta-section {
-            background: linear-gradient(135deg, var(--gold) 0%, #c19b2f 100%);
-            padding: 100px 40px;
-            text-align: center;
-        }
-        
-        .cta-section h2 {
-            font-size: 48px;
-            color: #000;
-            margin-bottom: 30px;
-        }
-        
-        .cta-section p {
-            font-size: 20px;
-            color: rgba(0, 0, 0, 0.7);
-            margin-bottom: 40px;
-        }
-        
-        .cta-section .btn-large {
-            background: #000;
-            color: var(--gold);
-        }
-        
-        /* Footer */
-        footer {
-            background: #000;
-            padding: 60px 40px 40px;
-            text-align: center;
-        }
-        
-        footer p {
-            color: var(--light);
-            margin-bottom: 10px;
-        }
-        
-        .footer-tagline {
-            color: var(--gold);
-            font-weight: bold;
-            letter-spacing: 2px;
-        }
-        
-        /* Responsive */
-        @media (max-width: 768px) {
-            .hero h1 {
-                font-size: 48px;
-            }
-            
-            .hero p {
-                font-size: 18px;
-            }
-            
-            .nav-links {
-                display: none;
-            }
-            
-            .video-grid, .pricing-grid {
-                grid-template-columns: 1fr;
-            }
-            
-            .price-card.featured {
-                transform: scale(1);
-            }
-        }
-    </style>
-</head>
-<body>
-    <!-- Navigation -->
-    <nav>
-        <div class="nav-container">
-            <div class="logo">⚡ KAMDRIDI</div>
-            <div class="nav-links">
-                <a href="#features">Features</a>
-                <a href="#showcase">Portfolio</a>
-                <a href="#pricing">Pricing</a>
-                <a href="#" class="btn-primary">Get Started</a>
-            </div>
-        </div>
-    </nav>
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><title>KAMDRIDI AI Visuals</title><style>
 
-    <!-- Hero Section -->
-    <section class="hero">
-        <div class="hero-content">
-            <h1>Cinematic AI Videos<br>for Heavy Music</h1>
-            <p>Generate professional, high-quality music videos in minutes.<br>No filming. No crew. Just pure cinematic power.</p>
-            <div class="cta-group">
-                <a href="#pricing" class="btn-large btn-primary">Start Creating</a>
-                <a href="#showcase" class="btn-large btn-secondary">View Examples</a>
-            </div>
-        </div>
-    </section>
+body{
+margin:0;
+font-family:Arial, Helvetica, sans-serif;
+background:#0a0a0a;
+color:white;
+}
 
-    <!-- Features Section -->
-    <section id="features" class="features">
-        <h2 class="section-title">Why Choose KAMDRIDI AI</h2>
-        <p class="section-subtitle">Professional video generation built for artists</p>
-        
-        <div class="features-grid">
-            <div class="feature-card">
-                <div class="feature-icon">⚡</div>
-                <h3>Lightning Fast</h3>
-                <p>Generate cinematic videos in under 5 minutes. No waiting days for production crews.</p>
-            </div>
-            
-            <div class="feature-card">
-                <div class="feature-icon">🎬</div>
-                <h3>Cinema Quality</h3>
-                <p>Professional-grade visuals with film grain, depth of field, and cinematic motion.</p>
-            </div>
-            
-            <div class="feature-card">
-                <div class="feature-icon">💰</div>
-                <h3>Affordable</h3>
-                <p>Starting at $300. Traditional music videos cost $5,000-20,000+.</p>
-            </div>
-            
-            <div class="feature-card">
-                <div class="feature-icon">🎨</div>
-                <h3>Custom Styles</h3>
-                <p>Industrial decay, apocalyptic scenes, volcanic eruptions. Heavy aesthetics for heavy music.</p>
-            </div>
-            
-            <div class="feature-card">
-                <div class="feature-icon">🚀</div>
-                <h3>Unlimited Revisions</h3>
-                <p>Not happy? Generate again. We want your vision to come to life perfectly.</p>
-            </div>
-            
-            <div class="feature-card">
-                <div class="feature-icon">📥</div>
-                <h3>Instant Download</h3>
-                <p>Get your MP4 files delivered to your email. Ready to upload to YouTube, Spotify, Instagram.</p>
-            </div>
-        </div>
-    </section>
+nav{
+display:flex;
+justify-content:space-between;
+padding:20px 40px;
+background:#000;
+position:sticky;
+top:0;
+z-index:100;
+}
 
-    <!-- Showcase Section -->
-    <section id="showcase" class="showcase">
-        <h2 class="section-title">Portfolio</h2>
-        <p class="section-subtitle">Heavy. Cinematic. Unearthed.</p>
-        
-        <div class="video-grid">
-            <div class="video-card">🏜️</div>
-            <div class="video-card">🔥</div>
-            <div class="video-card">⚡</div>
-            <div class="video-card">💀</div>
-            <div class="video-card">🌋</div>
-            <div class="video-card">⚙️</div>
-        </div>
-    </section>
+.logo{
+font-weight:bold;
+color:#d4af37;
+}
 
-    <!-- Pricing Section -->
-    <section id="pricing" class="pricing">
-        <h2 class="section-title">Choose Your Package</h2>
-        <p class="section-subtitle">Professional video generation for every budget</p>
-        
-        <div class="pricing-grid">
-            <!-- Teaser Pack -->
-            <div class="price-card">
-                <div class="package-name">TEASER</div>
-                <div class="price">$300<span></span></div>
-                <p class="price-description">Perfect for single releases and social media teasers</p>
-                <ul class="features-list">
-                    <li>1 video generation credit</li>
-                    <li>10-15 second videos</li>
-                    <li>1080p resolution</li>
-                    <li>2 revision rounds</li>
-                    <li>MP4 download</li>
-                    <li>3 day delivery</li>
-                </ul>
-                <button class="buy-btn" onclick="checkout('teaser')">Get Started</button>
-            </div>
-            
-            <!-- Music Video Pack -->
-            <div class="price-card featured">
-                <div class="badge">MOST POPULAR</div>
-                <div class="package-name">MUSIC VIDEO</div>
-                <div class="price">$1,500<span></span></div>
-                <p class="price-description">Complete music video with multiple scenes</p>
-                <ul class="features-list">
-                    <li>5 video generation credits</li>
-                    <li>Combine into 2-3 minute video</li>
-                    <li>4K resolution</li>
-                    <li>Unlimited revisions</li>
-                    <li>Priority support</li>
-                    <li>7 day delivery</li>
-                </ul>
-                <button class="buy-btn" onclick="checkout('video')">Get Started</button>
-            </div>
-            
-            <!-- Visual Album Pack -->
-            <div class="price-card">
-                <div class="badge">BEST VALUE</div>
-                <div class="package-name">VISUAL ALBUM</div>
-                <div class="price">$5,000<span></span></div>
-                <p class="price-description">Complete visual album with cohesive aesthetic</p>
-                <ul class="features-list">
-                    <li>20 video generation credits</li>
-                    <li>Full album coverage</li>
-                    <li>4K resolution</li>
-                    <li>Unlimited revisions</li>
-                    <li>Dedicated support</li>
-                    <li>Priority queue</li>
-                    <li>30 day delivery</li>
-                </ul>
-                <button class="buy-btn" onclick="checkout('album')">Get Started</button>
-            </div>
-        </div>
-    </section>
+nav a{
+color:white;
+text-decoration:none;
+margin-left:20px;
+}
 
-    <!-- CTA Section -->
-    <section class="cta-section">
-        <h2>Ready to Create Something Heavy?</h2>
-        <p>Join artists worldwide using KAMDRIDI AI Visuals</p>
-        <a href="#pricing" class="btn-large">Start Now</a>
-    </section>
+.btn-primary{
+background:#d4af37;
+padding:10px 18px;
+border-radius:6px;
+color:black;
+font-weight:bold;
+}
 
-    <!-- Footer -->
-    <footer>
-        <p>&copy; 2026 KAMDRIDI AI Visuals. All rights reserved.</p>
-        <p class="footer-tagline">Heavy. Cinematic. Unearthed.</p>
-    </footer>
+.hero{
+height:100vh;
+display:flex;
+align-items:center;
+justify-content:center;
+text-align:center;
+position:relative;
+overflow:hidden;
+}
 
-    <script>
-        // Replace with your actual Stripe publishable key
-        const stripe = Stripe('pk_test_YOUR_KEY_HERE');
-        const BACKEND_URL = 'https://your-backend.up.railway.app';
+.hero-video{
+position:absolute;
+width:100%;
+height:100%;
+object-fit:cover;
+z-index:-2;
+}
 
-        async function checkout(packageType) {
-            const customerName = prompt('Your name:');
-            const email = prompt('Your email:');
-            
-            if (!customerName || !email) {
-                alert('Please provide your name and email');
-                return;
-            }
+.hero-overlay{
+position:absolute;
+width:100%;
+height:100%;
+background:rgba(0,0,0,0.7);
+z-index:-1;
+}
 
-            try {
-                const response = await fetch(`${BACKEND_URL}/api/create-checkout`, {
-                    method: 'POST',
-                    headers: {
-                        'Content-Type': 'application/json',
-                    },
-                    body: JSON.stringify({
-                        packageType,
-                        email,
-                        customerName,
-                    }),
-                });
+.hero-content{
+max-width:700px;
+padding:20px;
+}
 
-                const session = await response.json();
-                
-                // Redirect to Stripe Checkout
-                window.location.href = session.url;
-            } catch (error) {
-                console.error('Error:', error);
-                alert('Something went wrong. Please try again.');
-            }
-        }
-    </script>
-</body>
-</html>
+.hero h1{
+font-size:60px;
+margin-bottom:20px;
+}
+
+.hero p{
+font-size:20px;
+opacity:0.8;
+}
+
+.cta{
+margin-top:40px;
+}
+
+.btn-large{
+background:#d4af37;
+padding:15px 30px;
+font-size:20px;
+border-radius:8px;
+text-decoration:none;
+color:black;
+font-weight:bold;
+}
+
+.section{
+padding:80px 40px;
+text-align:center;
+}
+
+.section h2{
+font-size:40px;
+margin-bottom:40px;
+}
+
+.video-grid{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+gap:20px;
+}
+
+.video-grid img{
+width:100%;
+height:300px;
+object-fit:cover;
+border-radius:10px;
+}
+
+.pricing{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+gap:30px;
+margin-top:40px;
+}
+
+.price-card{
+background:#111;
+padding:30px;
+border-radius:10px;
+}
+
+.price-card h3{
+font-size:28px;
+margin-bottom:10px;
+}
+
+.price{
+font-size:32px;
+color:#d4af37;
+margin-bottom:20px;
+}
+
+.buy-btn{
+display:inline-block;
+background:#d4af37;
+color:black;
+padding:12px 20px;
+border-radius:6px;
+text-decoration:none;
+font-weight:bold;
+}
+
+footer{
+margin-top:80px;
+padding:40px;
+text-align:center;
+background:black;
+color:#777;
+}
+
+</style></head><body><nav><div class="logo">⚡ KAMDRIDI</div><div>
+<a href="#showcase">Portfolio</a>
+<a href="#pricing">Pricing</a>
+<a href="https://buy.stripe.com/3cI6oH10Mf4w7oA3r0eE006" class="btn-primary" target="_blank">Order</a>
+</div></nav><section class="hero"><video autoplay muted loop playsinline class="hero-video">
+<source src="https://cdn.coverr.co/videos/coverr-volcanic-eruption-7613/1080p.mp4" type="video/mp4">
+</video><div class="hero-overlay"></div><div class="hero-content"><h1>Cinematic AI Music Videos</h1><p>Create dark cinematic visuals for metal, rock and electronic music.</p><div class="cta"><a href="https://buy.stripe.com/3cI6oH10Mf4w7oA3r0eE006" class="btn-large" target="_blank">Create My Video
+
+</a></div></div></section><section id="showcase" class="section"><h2>Visual Examples</h2><div class="video-grid"><img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=1200"><img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?w=1200"><img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200"><img src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200"><img src="https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=1200"><img src="https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=1200"></div></section><section id="pricing" class="section"><h2>Choose Your Package</h2><div class="pricing"><div class="price-card"><h3>Teaser</h3><div class="price">$300</div><p>Short AI teaser video for social media.</p><br><a href="https://buy.stripe.com/3cI6oH10Mf4w7oA3r0eE006" class="buy-btn" target="_blank">Buy Now
+
+</a></div><div class="price-card"><h3>Music Video</h3><div class="price">$1500</div><p>Full cinematic music video with multiple scenes.</p><br><a href="https://buy.stripe.com/3cI6oH10Mf4w7oA3r0eE006" class="buy-btn" target="_blank">Buy Now
+
+</a></div><div class="price-card"><h3>Visual Album</h3><div class="price">$5000</div><p>Complete album visual experience.</p><br><a href="https://buy.stripe.com/3cI6oH10Mf4w7oA3r0eE006" class="buy-btn" target="_blank">Buy Now
+
+</a></div></div></section><footer>© 2026 KAMDRIDI AI Visuals
+Heavy. Cinematic. Unearthed.
+
+</footer></body></html>
