@@ -1,370 +1,247 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dashboard - KAMDRIDI AI Visuals</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            background: #0a0a0a;
-            color: #fff;
-        }
-        
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 40px 20px;
-        }
-        
-        header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 60px;
-            padding-bottom: 30px;
-            border-bottom: 2px solid #d4af37;
-        }
-        
-        .logo {
-            font-size: 32px;
-            font-weight: bold;
-            color: #d4af37;
-            letter-spacing: 3px;
-        }
-        
-        .credits {
-            font-size: 18px;
-            color: #999;
-        }
-        
-        .credits span {
-            color: #d4af37;
-            font-size: 32px;
-            font-weight: bold;
-        }
-        
-        .generator {
-            background: #1a1a1a;
-            border-radius: 20px;
-            padding: 50px;
-            margin-bottom: 60px;
-        }
-        
-        h1 {
-            font-size: 48px;
-            margin-bottom: 20px;
-            color: #d4af37;
-        }
-        
-        .subtitle {
-            color: #999;
-            margin-bottom: 40px;
-            font-size: 18px;
-        }
-        
-        label {
-            display: block;
-            margin-bottom: 15px;
-            font-weight: 600;
-            font-size: 16px;
-        }
-        
-        input, select, textarea {
-            width: 100%;
-            padding: 20px;
-            background: #0a0a0a;
-            border: 2px solid #333;
-            border-radius: 10px;
-            color: #fff;
-            font-size: 16px;
-            margin-bottom: 30px;
-            font-family: inherit;
-        }
-        
-        input:focus, select:focus, textarea:focus {
-            outline: none;
-            border-color: #d4af37;
-        }
-        
-        textarea {
-            min-height: 150px;
-            resize: vertical;
-        }
-        
-        button {
-            background: #d4af37;
-            color: #000;
-            padding: 20px 60px;
-            border: none;
-            border-radius: 50px;
-            font-size: 18px;
-            font-weight: bold;
-            cursor: pointer;
-            transition: all 0.3s;
-        }
-        
-        button:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 10px 30px rgba(212, 175, 55, 0.5);
-        }
-        
-        button:disabled {
-            opacity: 0.5;
-            cursor: not-allowed;
-        }
-        
-        .videos-section {
-            margin-top: 60px;
-        }
-        
-        .videos-section h2 {
-            font-size: 32px;
-            margin-bottom: 30px;
-            color: #d4af37;
-        }
-        
-        .video-list {
-            display: grid;
-            gap: 30px;
-        }
-        
-        .video-item {
-            background: #1a1a1a;
-            border: 2px solid #333;
-            border-radius: 15px;
-            padding: 30px;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-        
-        .video-info h3 {
-            margin-bottom: 10px;
-        }
-        
-        .video-status {
-            padding: 8px 20px;
-            border-radius: 20px;
-            font-size: 14px;
-            font-weight: bold;
-        }
-        
-        .status-processing {
-            background: #ff9900;
-            color: #000;
-        }
-        
-        .status-completed {
-            background: #00ff00;
-            color: #000;
-        }
-        
-        .status-failed {
-            background: #ff0000;
-            color: #fff;
-        }
-        
-        .download-btn {
-            padding: 15px 30px;
-            border-radius: 10px;
-            font-size: 16px;
-        }
-        
-        .loading {
-            display: none;
-            text-align: center;
-            padding: 20px;
-            color: #d4af37;
-        }
-        
-        .loading.active {
-            display: block;
-        }
-    </style>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>KAMDRIDI AI Visuals</title>
+
+<style>
+
+body{
+margin:0;
+font-family:Arial, Helvetica, sans-serif;
+background:#0a0a0a;
+color:white;
+}
+
+nav{
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:20px 40px;
+background:black;
+position:fixed;
+width:100%;
+z-index:1000;
+}
+
+.logo{
+color:#f5c518;
+font-weight:bold;
+font-size:22px;
+}
+
+.hero{
+height:100vh;
+display:flex;
+align-items:center;
+justify-content:center;
+text-align:center;
+background:linear-gradient(black, #0a0a0a);
+}
+
+.hero h1{
+font-size:70px;
+margin-bottom:10px;
+}
+
+.hero p{
+opacity:0.8;
+}
+
+.section{
+padding:100px 40px;
+max-width:1200px;
+margin:auto;
+}
+
+.section-title{
+font-size:40px;
+margin-bottom:60px;
+text-align:center;
+}
+
+.showcase{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+gap:30px;
+}
+
+.showcase video{
+width:100%;
+border-radius:10px;
+}
+
+.pricing-grid{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+gap:40px;
+}
+
+.price-card{
+background:#111;
+padding:40px;
+border-radius:10px;
+text-align:center;
+transition:0.3s;
+}
+
+.price-card:hover{
+transform:scale(1.03);
+}
+
+.price{
+font-size:40px;
+color:#f5c518;
+margin:20px 0;
+}
+
+.buy-btn{
+background:#f5c518;
+color:black;
+padding:14px 30px;
+text-decoration:none;
+font-weight:bold;
+display:inline-block;
+margin-top:20px;
+border-radius:6px;
+}
+
+footer{
+text-align:center;
+padding:40px;
+background:black;
+margin-top:100px;
+}
+
+</style>
+
 </head>
+
 <body>
-    <div class="container">
-        <header>
-            <div class="logo">⚡ KAMDRIDI</div>
-            <div class="credits">
-                Credits: <span id="creditsDisplay">-</span>
-            </div>
-        </header>
 
-        <div class="generator">
-            <h1>Generate Your Video</h1>
-            <p class="subtitle">Describe your vision and we'll bring it to life</p>
+<nav>
 
-            <form id="generateForm">
-                <div>
-                    <label for="prompt">Video Description *</label>
-                    <textarea 
-                        id="prompt" 
-                        name="prompt" 
-                        placeholder="Describe your video in detail... Example: abandoned industrial warehouse at sunset, rusty machinery, dramatic lighting, cinematic atmosphere"
-                        required
-                    ></textarea>
-                </div>
+<div class="logo">⚡ KAMDRIDI VISUALS</div>
 
-                <div>
-                    <label for="style">Visual Style *</label>
-                    <select id="style" name="style" required>
-                        <option value="">Select a style...</option>
-                        <option value="industrial_decay">Industrial Decay</option>
-                        <option value="apocalyptic">Apocalyptic Wasteland</option>
-                        <option value="volcanic">Volcanic Eruption</option>
-                        <option value="storm">Storm Apocalypse</option>
-                        <option value="urban">Urban Decay</option>
-                        <option value="fire">Forest Fire</option>
-                        <option value="underground">Underground Bunker</option>
-                        <option value="molten">Molten Metal</option>
-                        <option value="desert">Desert Wasteland</option>
-                        <option value="rust">Rust and Chains</option>
-                    </select>
-                </div>
+</nav>
 
-                <button type="submit" id="generateBtn">Generate Video</button>
-            </form>
+<section class="hero">
 
-            <div class="loading" id="loading">
-                <h3>🎬 Generating your video...</h3>
-                <p>This usually takes 2-5 minutes. We'll email you when it's ready!</p>
-            </div>
-        </div>
+<div>
 
-        <div class="videos-section">
-            <h2>Your Videos</h2>
-            <div class="video-list" id="videoList">
-                <p style="color: #999;">No videos generated yet. Create your first one above!</p>
-            </div>
-        </div>
-    </div>
+<h1>Cinematic AI Music Videos</h1>
 
-    <script>
-        const BACKEND_URL = 'https://your-backend.up.railway.app';
-        let orderId = null;
-        let orderData = null;
+<p>Create powerful AI visuals for your music</p>
 
-        // Get order ID from URL
-        const urlParams = new URLSearchParams(window.location.search);
-        orderId = urlParams.get('order');
+</div>
 
-        if (!orderId) {
-            alert('No order found. Please check your email for the dashboard link.');
-        }
+</section>
 
-        // Load order data
-        async function loadOrder() {
-            try {
-                const response = await fetch(`${BACKEND_URL}/api/order/${orderId}`);
-                orderData = await response.json();
-                
-                document.getElementById('creditsDisplay').textContent = 
-                    `${orderData.credits - orderData.creditsUsed} / ${orderData.credits}`;
-                
-                displayVideos(orderData.videos);
-            } catch (error) {
-                console.error('Error loading order:', error);
-            }
-        }
 
-        // Generate video
-        document.getElementById('generateForm').addEventListener('submit', async (e) => {
-            e.preventDefault();
-            
-            const prompt = document.getElementById('prompt').value;
-            const style = document.getElementById('style').value;
-            
-            if (!prompt || !style) {
-                alert('Please fill in all fields');
-                return;
-            }
-            
-            const btn = document.getElementById('generateBtn');
-            const loading = document.getElementById('loading');
-            
-            btn.disabled = true;
-            loading.classList.add('active');
-            
-            try {
-                const response = await fetch(`${BACKEND_URL}/api/generate-video`, {
-                    method: 'POST',
-                    headers: {
-                        'Content-Type': 'application/json',
-                    },
-                    body: JSON.stringify({
-                        orderId,
-                        prompt,
-                        style,
-                    }),
-                });
-                
-                const result = await response.json();
-                
-                if (response.ok) {
-                    alert('Video generation started! We\'ll email you when it\'s ready.');
-                    document.getElementById('generateForm').reset();
-                    
-                    // Reload order
-                    setTimeout(loadOrder, 1000);
-                } else {
-                    alert(result.error || 'Something went wrong');
-                }
-            } catch (error) {
-                console.error('Error:', error);
-                alert('Failed to generate video. Please try again.');
-            } finally {
-                btn.disabled = false;
-                loading.classList.remove('active');
-            }
-        });
+<section class="section">
 
-        // Display videos
-        function displayVideos(videos) {
-            const videoList = document.getElementById('videoList');
-            
-            if (!videos || videos.length === 0) {
-                videoList.innerHTML = '<p style="color: #999;">No videos generated yet. Create your first one above!</p>';
-                return;
-            }
-            
-            videoList.innerHTML = videos.map(video => `
-                <div class="video-item">
-                    <div class="video-info">
-                        <h3>${video.prompt.substring(0, 50)}...</h3>
-                        <p style="color: #999; margin-top: 10px;">
-                            Style: ${video.style} | 
-                            Created: ${new Date(video.createdAt).toLocaleString()}
-                        </p>
-                    </div>
-                    <div style="display: flex; gap: 20px; align-items: center;">
-                        <span class="video-status status-${video.status}">${video.status.toUpperCase()}</span>
-                        ${video.status === 'completed' ? `
-                            <a href="${video.url}" download class="download-btn" style="text-decoration: none; color: #000; background: #d4af37;">
-                                Download MP4
-                            </a>
-                        ` : ''}
-                    </div>
-                </div>
-            `).join('');
-        }
+<div class="section-title">
 
-        // Auto-refresh while videos are processing
-        setInterval(async () => {
-            if (orderData && orderData.videos.some(v => v.status === 'processing')) {
-                await loadOrder();
-            }
-        }, 10000); // Check every 10 seconds
+Showcase
 
-        // Initial load
-        loadOrder();
-    </script>
+</div>
+
+<div class="showcase">
+
+<video controls>
+<source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+</video>
+
+<video controls>
+<source src="https://www.w3schools.com/html/movie.mp4" type="video/mp4">
+</video>
+
+<video controls>
+<source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+</video>
+
+</div>
+
+</section>
+
+
+<section class="section">
+
+<div class="section-title">
+
+Production Packages
+
+</div>
+
+<div class="pricing-grid">
+
+<div class="price-card">
+
+<h3>Teaser</h3>
+
+<p>Short cinematic teaser for promotion</p>
+
+<div class="price">$300</div>
+
+<a href="https://buy.stripe.com/cNicN50KIg8AdMY6E0eE007" class="buy-btn">
+
+Buy Now
+
+</a>
+
+</div>
+
+
+
+<div class="price-card">
+
+<h3>AI Music Video</h3>
+
+<p>Full cinematic AI music video</p>
+
+<div class="price">$1500</div>
+
+<a href="https://buy.stripe.com/14A8wP9he2hKer29QCeE009" class="buy-btn">
+
+Buy Now
+
+</a>
+
+</div>
+
+
+
+<div class="price-card">
+
+<h3>Visual Album Production</h3>
+
+<p>Complete cinematic album experience</p>
+
+<div class="price">$5000</div>
+
+<a href="https://buy.stripe.com/cNi9AT8da4ps38k1jGeE008" class="buy-btn">
+
+Buy Now
+
+</a>
+
+</div>
+
+</div>
+
+</section>
+
+
+<footer>
+
+© KAMDRIDI Visual Studio
+
+</footer>
+
 </body>
+
 </html>
