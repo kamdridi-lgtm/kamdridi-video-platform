@@ -81,17 +81,19 @@ Separate unreleased concept. Do not pitch audio until playable masters are ident
 | 14 | Friend of Mine Records | Japan indie label/promotion | War Machines / Japan physical/promotion | SENT; visible in Sent Items; delivery not proven |
 | 15 | Super Delicious Records | U.S. hard rock/metal/punk label | War Machines + international plan | SENT; delivery not proven |
 | 16 | WNYO 88.9 FM — Alternative | U.S. college/alternative radio | Too Fast Too Young | SENT; visible in Sent Items; no bounce observed in latest check; delivery not proven |
-| 17 | 90.5 WASU-FM | U.S. alternative-rock college radio | Too Fast Too Young | **BOUNCED / NON REMIS** after Outlook send; do not count as delivered |
+| 17 | 90.5 WASU-FM | U.S. alternative-rock college radio | Too Fast Too Young | Initial official FAQ address `wasumusic@gmail.com` **BOUNCED: mailbox full**. Current official Music page also lists `music.wasu@gmail.com`; replacement submission SENT there and visible in Sent Items; final delivery not proven |
 | 18 | WPRB 103.3 FM — Princeton | U.S. freeform/college radio | Too Fast Too Young | SENT; visible in Sent Items; delivery not yet proven |
 
 ## Current verified count
-- Outlook artist-outreach send attempts: **18**
-- Known artist-campaign bounces: **1 — WASU-FM**
-- Non-bounced sends/attempts so far: 17, but absence of bounce is not delivery proof
+- Unique artist-outreach targets contacted: **18**
+- Outlook artist-outreach send attempts: **19** (includes WASU corrected-address resend)
+- Known artist-campaign bounces: **1 — WASU initial address, mailbox full**
 - Verified replies: **0**
 - Verified positive replies: **0**
 - Verified radio airplays: **0**
 - Verified deals / representation / placements: **0**
+
+Important: no observed bounce is not proof of delivery, opening or listening.
 
 ## Australia radio priority queue
 ### Tier A — usable with current public links / forms
@@ -105,7 +107,7 @@ Separate unreleased concept. Do not pitch audio until playable masters are ident
 - **4ZZZ Brisbane** — form + downloadable WAV/320 MP3.
 - **RTRFM Perth** — form + stream + free download link.
 - **Streaming Network Radio Australia** — worldwide artists, free submissions, WAV/MP3 required.
-- **Edge Radio Hobart** — says it supports emerging artists from Tasmania, Australia and around the world; digital submission requires stream + high-quality download. HOLD for master route.
+- **Edge Radio Hobart** — supports emerging artists from Tasmania, Australia and around the world; digital submission requires stream + high-quality download. HOLD for master route.
 
 ### Defer / not current fit
 - Radio Adelaide — current submission wording aimed at Australian artists.
@@ -114,18 +116,18 @@ Separate unreleased concept. Do not pitch audio until playable masters are ident
 
 ## U.S. radio queue
 ### Contacted
-- WNYO 88.9 FM — sent Too Fast Too Young.
-- WASU-FM — sent but bounced; do not resend to same address without a verified replacement route.
-- WPRB 103.3 FM — sent Too Fast Too Young; physical submissions are prioritized but official digital email is accepted.
+- **WNYO 88.9 FM** — Too Fast Too Young sent to official Alternative Music address.
+- **WASU-FM** — initial FAQ address bounced because mailbox was full; replacement sent to `music.wasu@gmail.com`, which is listed on the station's current official Music page. No delivery claim until evidence.
+- **WPRB 103.3 FM** — Too Fast Too Young sent to official digital music-submission email; physical submissions are prioritized but digital is explicitly accepted.
 
 ### Hold for exact file/content checks
-- WMSC 90.3 — asks for downloadable music through Google Drive.
-- WMSE 91.7 — wants downloadable digital music.
+- WMSC 90.3 — downloadable music through Google Drive.
+- WMSE 91.7 — downloadable digital music.
 - KAFM — stream + downloadable WAV.
 - Ultimate Rock Radio / WMFO — worldwide rock; download link required; WAV preferred / 320 MP3 accepted; FCC-clean lyrics required.
 - KRUI — content/obscenity notes required; hold until lyric flag verified.
-- KXLU 88.9 Los Angeles — digital submissions available, but station explicitly requires FCC-clean material; hold until lyric flag verified.
-- KFSR 90.7 — digital submissions accepted but submission disclaimer contains a royalty waiver for material not registered with specified publishing organizations; **do not submit automatically** until rights/registration implications are reviewed.
+- KXLU 88.9 Los Angeles — digital submissions available, but FCC-clean material required; hold until lyric flag verified.
+- KFSR 90.7 — digital submissions accepted but disclaimer contains a royalty waiver for material not registered with specified publishing organizations; **do not submit automatically** until rights/registration implications are reviewed.
 
 ## Label / management priority queue
 ### Japan
@@ -148,7 +150,7 @@ A current search of ChatGPT Files/Library and connected Google Drive did **not**
 Do not fabricate Dropbox/Drive/SoundCloud links and do not guess which historical file is the final master. Once the exact files are located, create one durable private download/listening route and unlock the stations on HOLD.
 
 ## Next actions
-1. Watch Outlook for verified replies/bounces from all current pitches.
+1. Watch Outlook for verified replies/bounces from all current pitches, including the replacement WASU address.
 2. Do not immediately resend/follow up; one follow-up maximum later where allowed.
 3. Continue no-fee U.S. radio outreach only where a public streaming link is explicitly accepted and no rights/content declaration is being guessed.
 4. Australia: prioritize Rebel FM / Planet X form routes with 17 FOR EVER; then PBS / Triple R / SYN / 4ZZZ / Edge once a verified master download exists.
