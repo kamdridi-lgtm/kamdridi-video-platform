@@ -8,7 +8,7 @@
 - Payment link: https://book.stripe.com/eVq5kD796f4w5gs7I4eEo0k
 
 ## Best first targets
-Prioritize independent rock / metal artists who have released a single in the past 30–90 days and are actively promoting it.
+Prioritize independent rock / metal / alternative artists who have released a single in the past 30–90 days and are actively promoting it.
 
 ### Lead 1 — Sierra Levesque
 - Recent release: “UNDERMINED” (May 2026)
@@ -49,6 +49,66 @@ Hi — I came across Titan Arum’s recent material and think the melodic/dark-f
 
 DM/email draft:
 Hi Johnny — I saw “This Is Your Life” and the cinematic direction immediately stood out. I run KAMDRIDI Visuals and I’m launching a $99 custom music teaser service for independent artists. The teaser is built from the artist’s song, artwork/photos and visual direction — no subscription and no generic template. If you want, I can send the project link and a couple examples.
+
+### Lead 4 — Farline
+- Cinematic modern rock
+- Current 2026 single: “Going Home”
+- Public contact: hi@farlineofficial.com
+- Angle: the band explicitly positions the new chapter as cinematic modern rock, so the offer is a natural fit.
+
+Draft:
+Subject: Visual teaser idea for Going Home
+
+Hi Farline,
+
+I came across “Going Home” and the cinematic modern-rock direction immediately felt like a strong fit for a short release teaser. I run KAMDRIDI Visuals and I’m launching a $99 one-project cinematic promo service for independent artists, built around the actual song, artwork/photos and creative direction.
+
+If useful, I can send the project link and a couple examples.
+
+Best,
+Kam Dridi
+KAMDRIDI Visuals
+
+### Lead 5 — Jules in July
+- Toronto, Canada
+- Genre-bending electronic alt rock / grunge / shoegaze / industrial
+- Recent releases: “Colder”, “Night Rainbows”, “Home-brewed Sickness” (May 2026)
+- Public contact: bramjcole@gmail.com
+- Angle: layered/electronic visual identity and Canadian independent artist; strong short-form visual potential.
+
+Draft:
+Subject: Visual teaser idea for your recent releases
+
+Hi Bram,
+
+I found Jules in July through your recent May releases and thought the mix of alt-rock, electronic, shoegaze and industrial textures could translate really well into a short cinematic promo visual.
+
+I run KAMDRIDI Visuals and I’m launching a $99 one-project teaser offer for independent artists, built around the actual track, artwork/photos and visual direction.
+
+If you’re interested, I can send the link and examples.
+
+Best,
+Kam Dridi
+KAMDRIDI Visuals
+
+### Lead 6 — Black Moon June
+- Stockholm, Sweden
+- New independent hard rock band
+- Public Bandcamp contact route available
+- Angle: heavy riffs + strong rock identity, suitable for a darker cinematic teaser.
+
+DM draft:
+Hi — I came across Black Moon June and thought the band’s heavy hard-rock identity could work really well as a short cinematic teaser. I run KAMDRIDI Visuals and I’m launching a $99 one-project promo teaser for independent artists, built around the actual song, artwork and visual direction. If you want, I can send the link and a couple examples.
+
+### Lead 7 — Cloned Apparition
+- Montreal, Canada
+- Heavy alternative rock / grungegaze / post-hardcore / nu-metal
+- Debut album “Parallel with the Sun” released July 17, 2026; single “Stain” promoted ahead of it
+- Contact route: public social/Bandcamp links via release coverage
+- Angle: local Montreal band with a fresh album and highly visual genre blend.
+
+DM draft:
+Hi — I saw the rollout for “Parallel with the Sun” and “Stain”. The grungegaze / heavy-alt direction feels like a natural fit for a cinematic short-form teaser. I run KAMDRIDI Visuals and I’m launching a $99 one-project promo teaser built around the band’s actual track, artwork/photos and visual direction. Happy to send the link and examples if useful.
 
 ## Short DM version
 Saw your new single — strong visual potential. I make custom cinematic music teasers for independent artists. Launch offer is $99, one project, no subscription. Built around your actual track + artwork + direction. Want the link/examples?
