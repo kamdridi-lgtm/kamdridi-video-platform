@@ -15,11 +15,11 @@ DISCOVERED → QUALIFIED → READY TO CONTACT → CONTACTED → REPLIED → INTE
 
 ## Priority queue
 ### A — Contact first
-1. Farline — cinematic modern rock — direct email available
-2. LOWMIND — active 2026 release campaign — direct band email available
-3. ORO — direct public contact available
-4. Sierra Levesque — recent modern hard-rock release — direct email available
-5. Jules in July — Toronto — recent releases — direct email available
+1. Farline — cinematic modern rock — Outlook draft ready
+2. LOWMIND — active 2026 release campaign — Outlook draft ready
+3. ORO — direct public contact — Outlook draft ready
+4. Sierra Levesque — outreach sent Aug 7, 2026
+5. Jules in July — Toronto — Outlook draft ready
 
 ### B — Contact after A
 6. Cloned Apparition — Montreal — fresh album/release campaign
@@ -46,11 +46,11 @@ Do not build an enormous unqualified list. Work a small queue completely.
 ## Tracker
 | Priority | Prospect | Contact route | Status | First contact | Follow-up due | Outcome |
 |---|---|---|---|---|---|---|
-| A1 | Farline | Direct email | READY | — | — | — |
-| A2 | LOWMIND | Direct email | READY | — | — | — |
-| A3 | ORO | Direct email | READY | — | — | — |
-| A4 | Sierra Levesque | Direct email | READY | — | — | — |
-| A5 | Jules in July | Direct email | READY | — | — | — |
+| A1 | Farline | hi@farlineofficial.com | DRAFT READY | — | — | — |
+| A2 | LOWMIND | band@lowmind.de | DRAFT READY | — | — | — |
+| A3 | ORO | oroband@email.com | DRAFT READY | — | — | — |
+| A4 | Sierra Levesque | sierra.levesque.music@gmail.com | CONTACTED | 2026-08-07 via Outlook | 2026-08-10 | Awaiting reply |
+| A5 | Jules in July | bramjcole@gmail.com | DRAFT READY | — | — | — |
 | B1 | Cloned Apparition | Social/Bandcamp | QUALIFIED | — | — | — |
 | B2 | HAINE | Public contact route | QUALIFIED | — | — | — |
 | B3 | Stigmata | Public contact route | QUALIFIED | — | — | — |
@@ -60,14 +60,14 @@ Do not build an enormous unqualified list. Work a small queue completely.
 | B7 | Johnny B | Public contact route | QUALIFIED | — | — | — |
 
 ## Metrics
-Track only numbers that help decisions:
-- Qualified prospects
-- Messages actually sent
-- Replies
-- Positive replies
-- Payment links sent
-- Paid orders
-- Revenue
+- Qualified prospects: 12
+- Messages actually sent: 1
+- Drafts ready: 4
+- Replies: 0
+- Positive replies: 0
+- Payment links sent: 0
+- Paid orders: 0
+- Revenue: $0
 
 Initial test target: 20 carefully targeted contacts. Do not change the $99 offer before there is enough response data to know what is failing.
 
@@ -82,5 +82,6 @@ Initial test target: 20 carefully targeted contacts. Do not change the $99 offer
 ## Source of truth
 - `docs/SALES_PIPELINE.md` = status and operating process.
 - `docs/SALES_OUTREACH.md` = prospect research and message copy.
+- Outlook Sent Items = source of truth for outreach actually sent.
 - Stripe = source of truth for payments.
 - Intake records = source of truth for paid project material.
