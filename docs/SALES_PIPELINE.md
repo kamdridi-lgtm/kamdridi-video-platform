@@ -14,21 +14,22 @@ DISCOVERED → QUALIFIED → READY TO CONTACT → CONTACTED → REPLIED → INTE
 - Stripe live payment link: https://book.stripe.com/eVq5kD796f4w5gs7I4eEo0k
 
 ## Priority queue
-### A — Contacted
+### Active outreach
 1. Farline — outreach sent Aug 7, 2026
 2. LOWMIND — outreach sent Aug 7, 2026
-3. ORO — outreach sent Aug 7, 2026
-4. Sierra Levesque — outreach sent Aug 7, 2026
-5. Jules in July — outreach sent Aug 7, 2026
+3. Sierra Levesque — outreach sent Aug 7, 2026
+4. Jules in July — outreach sent Aug 7, 2026
+5. Cloned Apparition — outreach sent Aug 7, 2026
+6. When Rivers Meet — outreach sent Aug 7, 2026
 
-### B — Contact after A
-6. Cloned Apparition — Montreal — fresh album/release campaign
-7. HAINE — current release campaign
-8. Stigmata — current August single campaign
-9. Titan Arum — Canadian independent melodic metal
-10. Cherry Daisies — active rock prospect
-11. Black Moon June — independent hard rock
-12. Johnny B — cinematic rock fit
+### Needs alternate route / next wave
+7. ORO — official published email bounced; do not retry same address
+8. HAINE — current release campaign; official website/social route
+9. Stigmata — current August single campaign; official website/social route
+10. Titan Arum — Canadian independent melodic metal
+11. Cherry Daisies — active rock prospect
+12. Black Moon June — independent hard rock
+13. Johnny B — cinematic rock fit
 
 ## Daily operating rule
 Do not build an enormous unqualified list. Work a small queue completely.
@@ -48,27 +49,29 @@ Do not build an enormous unqualified list. Work a small queue completely.
 |---|---|---|---|---|---|---|
 | A1 | Farline | hi@farlineofficial.com | CONTACTED | 2026-08-07 via Outlook | 2026-08-10 | Awaiting reply |
 | A2 | LOWMIND | band@lowmind.de | CONTACTED | 2026-08-07 via Outlook | 2026-08-10 | Awaiting reply |
-| A3 | ORO | oroband@email.com | CONTACTED | 2026-08-07 via Outlook | 2026-08-10 | Awaiting reply |
-| A4 | Sierra Levesque | sierra.levesque.music@gmail.com | CONTACTED | 2026-08-07 via Outlook | 2026-08-10 | Awaiting reply |
-| A5 | Jules in July | bramjcole@gmail.com | CONTACTED | 2026-08-07 via Outlook | 2026-08-10 | Awaiting reply |
-| B1 | Cloned Apparition | Social/Bandcamp | QUALIFIED | — | — | — |
-| B2 | HAINE | Public contact route | QUALIFIED | — | — | — |
-| B3 | Stigmata | Public contact route | QUALIFIED | — | — | — |
-| B4 | Titan Arum | Bandcamp/public contact | QUALIFIED | — | — | — |
-| B5 | Cherry Daisies | Public contact route | QUALIFIED | — | — | — |
-| B6 | Black Moon June | Bandcamp | QUALIFIED | — | — | — |
-| B7 | Johnny B | Public contact route | QUALIFIED | — | — | — |
+| A3 | Sierra Levesque | sierra.levesque.music@gmail.com | CONTACTED | 2026-08-07 via Outlook | 2026-08-10 | Awaiting reply |
+| A4 | Jules in July | bramjcole@gmail.com | CONTACTED | 2026-08-07 via Outlook | 2026-08-10 | Awaiting reply |
+| A5 | Cloned Apparition | clonedapparition@gmail.com | CONTACTED | 2026-08-07 via Outlook | 2026-08-10 | Awaiting reply |
+| A6 | When Rivers Meet | info@whenriversmeet.co.uk | CONTACTED | 2026-08-07 via Outlook | 2026-08-10 | Awaiting reply |
+| X1 | ORO | oroband@email.com | BOUNCED | 2026-08-07 via Outlook | — | Recipient server rejected address; alternate route required |
+| B1 | HAINE | Official website/social | QUALIFIED | — | — | — |
+| B2 | Stigmata | Official website/social | QUALIFIED | — | — | — |
+| B3 | Titan Arum | Bandcamp/public contact | QUALIFIED | — | — | — |
+| B4 | Cherry Daisies | Public contact route | QUALIFIED | — | — | — |
+| B5 | Black Moon June | Bandcamp | QUALIFIED | — | — | — |
+| B6 | Johnny B | Public contact route | QUALIFIED | — | — | — |
 
 ## Metrics
-- Qualified prospects: 12
-- Messages actually sent: 5
+- Qualified prospects: 13
+- Successful outreach attempts: 6
+- Bounced/failed delivery: 1
 - Replies: 0
 - Positive replies: 0
 - Payment links sent: 0
 - Paid orders: 0
 - Revenue: $0
 
-Initial test target: 20 carefully targeted contacts. Do not change the $99 offer before there is enough response data to know what is failing.
+Initial test target: 20 successfully delivered, carefully targeted contacts. Failed delivery does not count toward the 20.
 
 ## Guardrails
 - No mass spam.
@@ -77,10 +80,11 @@ Initial test target: 20 carefully targeted contacts. Do not change the $99 offer
 - No paid advertising until the organic sales path works.
 - No new product features unless they directly unblock a sale or fulfillment.
 - Never mark CONTACTED, PAID, or DELIVERED unless it actually happened.
+- Never count a bounced email as successful outreach.
 
 ## Source of truth
 - `docs/SALES_PIPELINE.md` = status and operating process.
 - `docs/SALES_OUTREACH.md` = prospect research and message copy.
-- Outlook Sent Items = source of truth for outreach actually sent.
+- Outlook Sent Items + delivery failures = source of truth for outreach actually delivered/attempted.
 - Stripe = source of truth for payments.
 - Intake records = source of truth for paid project material.
