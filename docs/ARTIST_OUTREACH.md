@@ -1,7 +1,9 @@
 # KAM DRIDI — Artist Outreach Pipeline
 
 ## Objective
-Create real opportunities for KAM DRIDI as an artist: management, label support, publishing/sync, live development, press and radio. Keep this completely separate from KAMDRIDI Visuals client sales.
+Create real opportunities for KAM DRIDI as an artist: radio airplay, management, label support, publishing/sync, live development and press. Keep this completely separate from KAMDRIDI Visuals client sales.
+
+Immediate campaign goal: obtain the first verifiable radio play / meaningful reply / sale rather than chase vanity numbers. Run territory-specific campaigns instead of sending the same pitch everywhere.
 
 ## Public artist package
 - Official site / album hub: https://kamdridi.com/
@@ -10,113 +12,145 @@ Create real opportunities for KAM DRIDI as an artist: management, label support,
 - Press kit: https://kamdridi.com/assets/press/kam_dridi_press_kit_deluxe.pdf
 - Contact: contact@kamdridi.com
 
-## Track positioning
-- War Machines — heavy / cinematic hard rock / metal-facing contacts.
-- Too Fast Too Young — commercial rock / accessible rock / management and live development.
-- Our Lost Dreams — broad radio-facing / mainstream / sync-friendly direction.
+## Canonical release map — clarified by artist 2026-08-07
+Keep these projects strictly separated in outreach, assets, audio and artwork.
 
-## Confirmed unreleased projects / packages
-The artist confirmed on 2026-08-07 that the following project material has not yet been released. Treat it as unreleased only in the exact versions/package configurations supplied by the artist; do not relabel already-public album masters as unreleased.
+### Echoes Unearthed — Album I
+- War Machines — first single, already released. Heavy / cinematic hard rock. Future second-life campaign will connect it to ACT II — War Machines / the video game rather than pretending it is a new first release.
+- Too Fast Too Young — public album track; dedicated single/video rollout has not yet launched. Current priority for the U.S. radio campaign because it is more accessible/commercial rock.
+- Our Lost Dreams — public album track; dedicated single/video rollout has not yet launched. Broad radio-facing / mainstream / sync-friendly direction.
+- 17 For Ever — original album track is public. Do not call the album master unreleased.
 
-### 17 For Ever — Australian Maxi Single
-Artwork supplied in conversation. Four-version package:
+### 17 FOR EVER — Australia
+Distinct Australian maxi-single campaign, not the Brasil booklet/project. Four-version package:
 1. 17 FOR EVER — Exclusive Australian Version
 2. 17 FOR EVER — Different Mix / Album Version
-3. 17 FOR EVER — Unplugged — UN LIVE IN BRASIL Night #2 Version
+3. 17 FOR EVER — Unplugged — UN LIVE IN BRASIL / Night #2 Version
 4. 17 FOR EVER — Demo Version
-Physical concept includes Australian branding and a limited collector cassette presentation.
+Physical concept includes Australian branding, CD/cassette/collector presentation and January 2027 campaign material.
+Only the exact distinct versions/package that the artist has identified as unreleased may be pitched as unreleased. Never relabel the already-public album master as unreleased.
 
-Important: the original 17 For Ever album track is already public. Only the distinct unreleased versions/package above may be presented as unreleased. Before sending to a label that requires unreleased audio, verify the exact audio file for each version and create a durable private listening/download route.
+### Echoes — UN LIVE IN BRASIL
+Separate live/off-series project with its own booklet, physical package and Brasil campaign. The Brasil booklet belongs only to this project and must never be used as 17 FOR EVER Australia artwork.
+The current booklet is a concept proof / advance production package until final manufacturing files are authorized.
 
-### Echoes UN LIVE IN BRASIL
-Unreleased live-package concept supplied by the artist. The 16-page booklet concept contains the programme including Dream Machines, Michael Remembers, The Time of Signs, 17 For Ever, Too Fast Too Young, For Some Dialog..., Alone Apart / One Apart, Our Lost Dreams, The Fall of the First Knight, War Machines, plus bonus sessions Junction Ahead, Into the News, Tough Boys Rumble and Dream Machines / Solo Remix.
+### Salieri’s Hands
+Separate KAM DRIDI hors-série / off-series release inside the wider KAM DRIDI world. It is not Album II and must not be mixed with Australia, Brasil or the main Echoes campaign.
 
-The current booklet itself is a CONCEPT PROOF and says NOT AUTHORISED FOR MANUFACTURING, so pitch it as an unreleased project/advance package rather than a finished manufactured product until production files are final.
+### ACT II — War Machines / video game
+Future second-life expansion of War Machines tied to the game, including game-exclusive music. Treat this as a later transmedia campaign, not as evidence that the original single is unreleased.
 
-The Library contains several related audio files (including a 17 For Ever unplugged version and multiple Brazil/unplugged/live-session tracks), but do not assume any file is the final package master until title/version mapping is verified.
+### Twice Upon a Time — Album II
+Planned second official album for January 2027, aligned with the ACT II / game period. Keep it separate from Salieri’s Hands and from the 17 FOR EVER Australian maxi-single.
 
 ### Urban Drift
-The artist also identified the previously supplied Urban Drift physical-project artwork/material as unreleased. Tracklist shown on the package:
-1. Neon Reckoning
-2. High-Tech Low-Life (Rebel Years)
-3. Wired Youth
-4. Digital Scars (17th Summer)
-5. Urban Drift (Title Track)
-6. Static Dreams
-7. System Failure (Rebellion)
-8. Afterglow (17 For Ever)
+Previously supplied physical-project artwork/material is still a distinct unreleased concept. Do not pitch audio until the actual playable masters are identified and verified.
 
-Do not pitch audio from Urban Drift until the actual playable files/masters are identified and verified.
+## Campaign lanes
+### Australia — lead: 17 FOR EVER
+Goal: Australian rock/alternative/community radio exposure for the 17 FOR EVER Australian campaign. Use the Australian page/visual story as supporting context, but radio stations must receive the exact playable audio format they request.
+
+### United States — lead: Too Fast Too Young
+Goal: alternative / college / independent rock radio. Public Spotify album link is acceptable only where the station explicitly accepts a streaming link. If a station requires a downloadable WAV/320 MP3, hold until the exact master/download route is verified.
+
+### Japan — lead: War Machines
+Hard rock / metal / Japan-release / physical-edition angle. Existing Japan label outreach remains active.
 
 ## Rules
 - Send one focused pitch, not a bulk attachment dump.
-- Use public streaming/site links first. Send WAV masters only if specifically requested or where a label's official demo policy requires unreleased/private material.
-- Match the lead track to the recipient's roster or stated needs.
-- Never claim a reply, delivery, interest, representation, placement or deal unless verified.
-- Respect submission policies. Do not submit to services that explicitly reject AI-created/AI-assisted music when eligibility is uncertain.
-- No paid submission fees without explicit user approval.
+- Match the lead track and territory to the recipient.
+- Use public streaming/site links only where the recipient accepts them.
+- Send WAV/320 MP3 only when the exact requested master has been verified.
+- Never claim a reply, delivery, open, listen, airplay, sale, representation, placement or deal unless there is evidence.
+- A successful Outlook send call / Sent Items entry means the message was sent from the mailbox; it does not prove final delivery or human review.
+- Respect submission policies and form-only routes. Do not invent an email address to bypass a form.
+- Do not submit to services that explicitly reject AI-created/AI-assisted music while eligibility is uncertain.
+- No paid submission fees, advertising purchases or services without explicit user approval.
 - One follow-up maximum unless the recipient engages.
-- Global search is allowed: geography is not a constraint if the opportunity is legitimate and fits the music.
+- Do not agree to publishing, management, label, sync, exclusivity or licensing terms automatically.
 
 ## Outreach sent — 2026-08-07
-| Recipient | Type | Public submission basis | Lead angle | Status |
-|---|---|---|---|---|
-| Project LYRA | Toronto independent record label | Open demo submissions; support@projectlyra.ca | War Machines / Echoes Unearthed | SENT via Outlook; delivery not yet verified |
-| Antihero Talent Group | Artist management & development | Artists explicitly invited to submit to contact@antiherotalent.com | Cinematic hard rock + 3-track range | SENT via Outlook; delivery not yet verified |
-| Skald Records | Record label / artist management | Site explicitly says submit music to info@skaldrecords.com | War Machines | SENT via Outlook; delivery not yet verified |
-| Expolive Project | Management / publishing / label / live | Site invites artists seeking management, publishing, label, distro or live opportunities; claudio@expoliveproject.com | Too Fast Too Young + War Machines | SENT via Outlook; delivery not yet verified |
-| Moksha 360 | Artist services / management / live | Site has artist submissions and public info@moksha360.com | Too Fast Too Young / War Machines / Our Lost Dreams | SENT via Outlook; delivery not yet verified |
-| Frontiers Music | International hard rock / metal record label | Official submission page invites hard rock/metal submissions to info@frontiers.it and requests streaming links instead of unsolicited MP3s | War Machines + Too Fast Too Young + Our Lost Dreams | SENT via Outlook; delivery not yet verified |
-| OurTownRadio | Independent online radio | Public submission instructions accept artist bio + music links at music@ourtownradio.com | War Machines / Too Fast Too Young, with Our Lost Dreams as broader radio track | SENT via Outlook; delivery not yet verified |
-| Boonsdale Records | Toronto metal / hard rock label | Official site says it accepts unsolicited material and streaming links; info@boonsdalerecords.com | War Machines | SENT via Outlook; no immediate bounce found in recent-mail check; final delivery not proven |
-| Gestion de talents EAC | Montreal artist management / live promotion | Official site says it represents rock artists and invites new talent demos; info@eacmanagement.ca | War Machines | SENT via Outlook; no immediate bounce found in recent-mail check; final delivery not proven |
-| AJW Management | Toronto artist management / performance booking | Official site explicitly accepts demo submissions; aidan@ajwmgmt.com | Too Fast Too Young | SENT via Outlook; no immediate bounce found in recent-mail check; final delivery not proven |
-| Deko Entertainment | Rock-oriented independent label | Official contact page lists info@dekoentertainment.com for NEW ARTIST SUBMISSIONS | War Machines | SENT via Outlook; no immediate bounce found in recent-mail check; final delivery not proven |
-| The Prog Report | Progressive rock media / playlist coverage | Official artist-submission page invites unsigned/independent artists to progreportmusic@gmail.com and requests links only | War Machines | SENT via Outlook; no immediate bounce found in recent-mail check; final delivery not proven |
-| Bickee Music | Japanese independent rock / hard rock / heavy metal / AOR label | Official site says it is always looking for talented artists and publishes direct contact info@bickee-music.com | War Machines; Japan release / licensing / physical-edition discussion | SENT via Outlook; visible in Sent Items; no immediate bounce in latest recent-mail check; final delivery not proven |
-| Friend of Mine Records | Japanese independent label / Japan CD release and promotion partner | Official site welcomes demos from artists worldwide and lists info@friendofminerecords.com | War Machines; Japanese promotion / physical edition / licensing | SENT via Outlook; visible in Sent Items; no immediate bounce in latest recent-mail check; final delivery not proven |
-| Super Delicious Records | US independent label with global reach; hard rock / metal / punk focus | Official submission policy says roster is expanding, requests links only at submissions@superdeliciousrecords.com | War Machines + international growth plan + 17 For Ever Australian maxi-single campaign | SENT via Outlook; send call succeeded; final delivery not proven |
+| # | Recipient | Type | Public submission basis | Lead angle | Status |
+|---:|---|---|---|---|---|
+| 1 | Project LYRA | Toronto independent record label | Open demo submissions; support@projectlyra.ca | War Machines / Echoes Unearthed | SENT via Outlook; delivery not verified |
+| 2 | Antihero Talent Group | Artist management & development | Artists explicitly invited to submit to contact@antiherotalent.com | Cinematic hard rock + range | SENT via Outlook; delivery not verified |
+| 3 | Skald Records | Record label / artist management | Site explicitly says submit music to info@skaldrecords.com | War Machines | SENT via Outlook; delivery not verified |
+| 4 | Expolive Project | Management / publishing / label / live | Site invites artist submissions; claudio@expoliveproject.com | Too Fast Too Young + War Machines | SENT via Outlook; delivery not verified |
+| 5 | Moksha 360 | Artist services / management / live | Public artist-submission route; info@moksha360.com | Too Fast Too Young / War Machines / Our Lost Dreams | SENT via Outlook; delivery not verified |
+| 6 | Frontiers Music | International hard rock / metal label | Official submission page accepts links at info@frontiers.it | War Machines + range | SENT via Outlook; delivery not verified |
+| 7 | OurTownRadio | Independent online radio | Public submission instructions accept bio + music links at music@ourtownradio.com | War Machines / Too Fast Too Young | SENT via Outlook; delivery not verified |
+| 8 | Boonsdale Records | Toronto metal / hard rock label | Official site accepts unsolicited streaming submissions; info@boonsdalerecords.com | War Machines | SENT via Outlook; no immediate bounce observed; delivery not proven |
+| 9 | Gestion de talents EAC | Montreal management / live promotion | Official site invites rock demos; info@eacmanagement.ca | War Machines | SENT via Outlook; no immediate bounce observed; delivery not proven |
+| 10 | AJW Management | Toronto management / booking | Official site accepts demos; aidan@ajwmgmt.com | Too Fast Too Young | SENT via Outlook; no immediate bounce observed; delivery not proven |
+| 11 | Deko Entertainment | Rock-oriented independent label | Official page lists info@dekoentertainment.com for new artist submissions | War Machines | SENT via Outlook; no immediate bounce observed; delivery not proven |
+| 12 | The Prog Report | Progressive rock media / playlist | Official unsigned/independent submission route; progreportmusic@gmail.com | War Machines | SENT via Outlook; no immediate bounce observed; delivery not proven |
+| 13 | Bickee Music | Japanese rock / hard rock / metal / AOR label | Official contact info@bickee-music.com | War Machines / Japan release & licensing | SENT via Outlook; visible in Sent Items; delivery not proven |
+| 14 | Friend of Mine Records | Japanese indie label / Japan CD & promotion | Official worldwide demo route; info@friendofminerecords.com | War Machines / Japan promotion & physical edition | SENT via Outlook; visible in Sent Items; delivery not proven |
+| 15 | Super Delicious Records | U.S. indie label / hard rock-metal-punk | Official submission policy; submissions@superdeliciousrecords.com | War Machines + international plan | SENT via Outlook; delivery not proven |
+| 16 | WNYO 88.9 FM — Alternative Music | U.S. college / alternative radio | Official submissions page lists Alternative Rock/Indie/Punk at wnyoalternative@gmail.com | Too Fast Too Young / U.S. radio campaign | SENT via Outlook; visible in Sent Items; delivery not proven |
+| 17 | 90.5 WASU-FM | U.S. alternative-rock college radio | Official FAQ says send a link or WAV to wasumusic@gmail.com | Too Fast Too Young / U.S. radio campaign | SENT via Outlook; visible in Sent Items; delivery not proven |
 
 ## Current verified count
-- Artist outreach emails sent via Outlook: 15
+- Artist outreach emails sent via Outlook: 17
 - Verified replies: 0
 - Verified positive replies: 0
+- Verified radio airplays: 0
 - Verified deals / representation / placements: 0
-- Known artist-campaign bounces: 0 at the time of the latest recent-mail check
+- Known artist-campaign bounces: 0 in the latest recent-mail check
 
-Important: absence of a bounce is not proof that a human received, opened, or listened to the email.
+Important: no observed bounce is not proof that a message was delivered, opened or heard.
 
-## Global priority queue — verified public routes, not yet sent
+## Australia radio priority queue
+### Tier A — strongest current fit
+- Rebel FM Australia — rock-focused station; official submission page explicitly welcomes Australian artists and artists from around the world. Its form accepts Spotify/SoundCloud/other stream links or a high-quality download. FORM REQUIRED and the station explicitly says email submissions will not be considered. Best first Australia target with the current 17 FOR EVER campaign once the exact track/version link to submit is chosen.
+- Planet X Radio Australia — developing alternative/modern rock station featuring independent artists from Australia and around the world. Public form accepts Spotify and YouTube links. FORM REQUIRED.
+
+### Tier B — strong fit but needs a verified downloadable master
+- PBS FM Melbourne — official form welcomes local and international acts; requires a stream plus high-quality downloadable MP3/WAV and CAPTCHA.
+- Triple R Melbourne — requires a no-login stream plus high-quality downloadable MP3/WAV.
+- SYN Melbourne — music@syn.org.au; asks for a downloadable 320 MP3/WAV plus release information.
+- 4ZZZ Brisbane — form route; downloadable WAV/320 MP3 required.
+- RTRFM Perth — form requires stream plus free download link.
+- Streaming Network Radio Australia — accepts artists worldwide and says submissions are free, but requires WAV/MP3.
+
+### Not current fits / defer
+- Radio Adelaide — current submission wording is aimed at Australian artists; do not force-fit a Canadian artist.
+- OzInDi Radio Australia — Australian indie focus; not a priority for a Canadian artist unless eligibility is confirmed.
+- Local Sounds Australia — no-fee but requires uploaded MP3 and uses a real-artist/no-spam/AI eligibility check; defer while exact eligibility and master route are unresolved.
+
+## U.S. radio queue after the first two sends
+- WMSC 90.3 — non-commercial alternative rock; asks artists to share downloadable music through Google Drive with music staff. HOLD until exact master route exists.
+- WMSE 91.7 — encourages digital submissions but wants downloadable music. HOLD until exact master route exists.
+- KAFM — accepts one song but requires streaming plus downloadable WAV. HOLD.
+- KFSR — public digital-submission email exists; consider after exact broadcast file and metadata are verified.
+- Ultimate Rock Radio / WMFO — plays music from around the world; asks for a download link and prefers WAV / accepts 320 MP3. HOLD.
+- KRUI — independent/college route; requires content notes for obscenities. HOLD until lyric/content flag is verified.
+
+## Label / management priority queue
 ### Japan
-- Spiritual Beast — strong heavy metal / hard rock fit, but its official submission policy requires the website submission form and says not to send a stand-alone email after submitting. FORM REQUIRED; do not bypass policy.
-- VOZ Records — Yokohama independent label; official contact page welcomes demo links from aspiring artists. FORM REQUIRED.
+- Spiritual Beast — strong heavy metal / hard rock fit; official policy requires website form and says not to send a stand-alone email after submitting. FORM REQUIRED.
+- VOZ Records — Yokohama independent label; official contact page welcomes demo links. FORM REQUIRED.
 
 ### Germany
-- Pride & Joy Music — excellent AOR / melodic rock / hard rock fit. The unreleased-material requirement is now satisfied in principle because the artist has confirmed unreleased project/version material. NEXT BLOCKER: identify the exact unreleased audio to submit and provide the private stream/download link required by the label. Do not send the public album master as the unreleased demo.
+- Pride & Joy Music — strong AOR / melodic rock / hard rock fit. Unreleased material exists in principle, but exact unreleased audio and durable private stream/download must be verified before submission.
 
 ### Australia
-- Golden Robot Records / Golden Robot Global Entertainment — strong rock/hard-rock roster and official artist-submission route asks for an EPK/music link plus a reason for submission. The unreleased 17 For Ever Australian Maxi Single is a strong tailored angle. FORM REQUIRED; no verified direct A&R submission email found, so do not invent/bypass one.
-- +1Records Australia — Brisbane independent rock label listens to demos, but its official site currently says it is not looking to sign anyone. LOW PRIORITY / networking only.
-- Underfoot Records — Australian independent label with a public demo policy and info@underfootrecords.com.au, but its stated preferred submission route asks for a SoundCloud channel and three standout tracks. HOLD until a compliant SoundCloud/private-listening route exists or policy changes.
+- Golden Robot Records / Golden Robot Global Entertainment — strong rock/hard-rock fit; official artist-submission form asks for EPK/music link + reason. FORM REQUIRED. 17 FOR EVER Australia is the tailored angle, but do not bypass the official form.
+- Underfoot Records — preferred route asks for SoundCloud channel and three standout tracks. HOLD until compliant private-listening route exists.
 
-### Worldwide / other strong fits
-- Eclipse Records — established heavy metal / hard rock label actively accepts demos through its official website form. FORM REQUIRED.
+### Worldwide
+- Eclipse Records — hard rock / metal label with official website demo form. FORM REQUIRED.
 
-## Excluded / deferred targets
-- Fenger Music — explicitly rejects AI-generated submissions; do not submit while eligibility is uncertain.
-- Madden Flow Entertainment — explicitly says no AI; do not submit while eligibility is uncertain.
-- InStyle Music — explicitly rejects music created using AI in any capacity; do not submit.
-- Frwrd Mgmt — $25 paid submission required; no payment without explicit approval.
-- Frontiers & Beyond form — not needed because Frontiers' official submission page also accepts email submissions to info@frontiers.it; email route used instead.
-- PariahRocks / Hard, Heavy & Hair — strong format fit, but their artist route requires broadcast-quality WAV/MP3 or a durable direct download link and explicitly says not to use Spotify/YouTube. Defer until a compliant download link is available.
-- Pure Spark Records — rejects AI-created / AI-tool music and has paid review/consulting elements; do not submit while eligibility is uncertain and no payment is authorized.
+## Audio / asset blocker — exact state 2026-08-07
+A current search of ChatGPT Files/Library and the connected Google Drive did not locate a clearly identified radio-ready WAV/320 MP3 for the exact 17 FOR EVER Australian versions, nor a verified downloadable master route for Too Fast Too Young. Artwork and project files are present, but artwork is not a substitute for a broadcast master.
+
+Do not fabricate a Dropbox/Drive/SoundCloud link and do not guess which historical audio file is the final master. When the exact file is located, create one durable private download/listening route and unlock the stations currently on HOLD.
 
 ## Next actions
-1. Check Outlook for bounces and replies from all artist pitches.
-2. Record only verified bounces/replies. Absence of a bounce is not proof of reading.
-3. Check for replies daily during the first week.
-4. Continue worldwide research for no-fee, explicit-submission label/management/radio targets and match the right track.
-5. Prioritize Japan, Germany and Australia when there is a legitimate fit, but do not limit outreach geographically.
-6. Identify and verify the exact unreleased audio files for the Australian Maxi Single, Echoes UN LIVE IN BRASIL and Urban Drift, then create a durable private listening/download route for labels that require unreleased material.
-7. If a recipient asks for masters, send the uploaded high-quality files only after verifying which version they requested.
-8. Do not agree to publishing, management, label, sync or paid-service terms automatically; bring any concrete offer back for review first.
+1. Watch Outlook for verified replies/bounces from all 17 pitches.
+2. Do not resend or follow up immediately; one follow-up maximum later if there is no response and the recipient policy permits it.
+3. Continue no-fee U.S. radio outreach where a public streaming link is explicitly accepted.
+4. For Australia, prioritize Rebel FM / Planet X form routes with 17 FOR EVER, then PBS / Triple R / SYN / 4ZZZ once a verified master download exists.
+5. Locate and verify the exact broadcast masters for Too Fast Too Young and the 17 FOR EVER Australian versions.
+6. Keep Brasil booklet, Australia maxi, Salieri’s Hands, War Machines ACT II and Twice Upon a Time strictly separated.
+7. If any recipient asks for a master, contract, rights confirmation, AI-status declaration, publishing split, exclusivity or payment, stop and bring the request back for review before committing.
