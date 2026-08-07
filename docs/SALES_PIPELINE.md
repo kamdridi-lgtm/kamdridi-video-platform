@@ -14,12 +14,12 @@ DISCOVERED → QUALIFIED → READY TO CONTACT → CONTACTED → REPLIED → INTE
 - Stripe live payment link: https://book.stripe.com/eVq5kD796f4w5gs7I4eEo0k
 
 ## Priority queue
-### A — Contact first
-1. Farline — cinematic modern rock — Outlook draft ready
-2. LOWMIND — active 2026 release campaign — Outlook draft ready
-3. ORO — direct public contact — Outlook draft ready
+### A — Contacted
+1. Farline — outreach sent Aug 7, 2026
+2. LOWMIND — outreach sent Aug 7, 2026
+3. ORO — outreach sent Aug 7, 2026
 4. Sierra Levesque — outreach sent Aug 7, 2026
-5. Jules in July — Toronto — Outlook draft ready
+5. Jules in July — outreach sent Aug 7, 2026
 
 ### B — Contact after A
 6. Cloned Apparition — Montreal — fresh album/release campaign
@@ -46,11 +46,11 @@ Do not build an enormous unqualified list. Work a small queue completely.
 ## Tracker
 | Priority | Prospect | Contact route | Status | First contact | Follow-up due | Outcome |
 |---|---|---|---|---|---|---|
-| A1 | Farline | hi@farlineofficial.com | DRAFT READY | — | — | — |
-| A2 | LOWMIND | band@lowmind.de | DRAFT READY | — | — | — |
-| A3 | ORO | oroband@email.com | DRAFT READY | — | — | — |
+| A1 | Farline | hi@farlineofficial.com | CONTACTED | 2026-08-07 via Outlook | 2026-08-10 | Awaiting reply |
+| A2 | LOWMIND | band@lowmind.de | CONTACTED | 2026-08-07 via Outlook | 2026-08-10 | Awaiting reply |
+| A3 | ORO | oroband@email.com | CONTACTED | 2026-08-07 via Outlook | 2026-08-10 | Awaiting reply |
 | A4 | Sierra Levesque | sierra.levesque.music@gmail.com | CONTACTED | 2026-08-07 via Outlook | 2026-08-10 | Awaiting reply |
-| A5 | Jules in July | bramjcole@gmail.com | DRAFT READY | — | — | — |
+| A5 | Jules in July | bramjcole@gmail.com | CONTACTED | 2026-08-07 via Outlook | 2026-08-10 | Awaiting reply |
 | B1 | Cloned Apparition | Social/Bandcamp | QUALIFIED | — | — | — |
 | B2 | HAINE | Public contact route | QUALIFIED | — | — | — |
 | B3 | Stigmata | Public contact route | QUALIFIED | — | — | — |
@@ -61,8 +61,7 @@ Do not build an enormous unqualified list. Work a small queue completely.
 
 ## Metrics
 - Qualified prospects: 12
-- Messages actually sent: 1
-- Drafts ready: 4
+- Messages actually sent: 5
 - Replies: 0
 - Positive replies: 0
 - Payment links sent: 0
