@@ -14,11 +14,43 @@ Create real opportunities for KAM DRIDI as an artist: management, label support,
 - War Machines — heavy / cinematic hard rock / metal-facing contacts.
 - Too Fast Too Young — commercial rock / accessible rock / management and live development.
 - Our Lost Dreams — broad radio-facing / mainstream / sync-friendly direction.
-- 17 For Ever — core song is already publicly listed on Echoes Unearthed. An Australian maxi-single package exists according to the artist, but do not pitch any maxi material as unreleased until the exact versions and playable links/files are verified.
+
+## Confirmed unreleased projects / packages
+The artist confirmed on 2026-08-07 that the following project material has not yet been released. Treat it as unreleased only in the exact versions/package configurations supplied by the artist; do not relabel already-public album masters as unreleased.
+
+### 17 For Ever — Australian Maxi Single
+Artwork supplied in conversation. Four-version package:
+1. 17 FOR EVER — Exclusive Australian Version
+2. 17 FOR EVER — Different Mix / Album Version
+3. 17 FOR EVER — Unplugged — UN LIVE IN BRASIL Night #2 Version
+4. 17 FOR EVER — Demo Version
+Physical concept includes Australian branding and a limited collector cassette presentation.
+
+Important: the original 17 For Ever album track is already public. Only the distinct unreleased versions/package above may be presented as unreleased. Before sending to a label that requires unreleased audio, verify the exact audio file for each version and create a durable private listening/download route.
+
+### Echoes UN LIVE IN BRASIL
+Unreleased live-package concept supplied by the artist. The 16-page booklet concept contains the programme including Dream Machines, Michael Remembers, The Time of Signs, 17 For Ever, Too Fast Too Young, For Some Dialog..., Alone Apart / One Apart, Our Lost Dreams, The Fall of the First Knight, War Machines, plus bonus sessions Junction Ahead, Into the News, Tough Boys Rumble and Dream Machines / Solo Remix.
+
+The current booklet itself is a CONCEPT PROOF and says NOT AUTHORISED FOR MANUFACTURING, so pitch it as an unreleased project/advance package rather than a finished manufactured product until production files are final.
+
+The Library contains several related audio files (including a 17 For Ever unplugged version and multiple Brazil/unplugged/live-session tracks), but do not assume any file is the final package master until title/version mapping is verified.
+
+### Urban Drift
+The artist also identified the previously supplied Urban Drift physical-project artwork/material as unreleased. Tracklist shown on the package:
+1. Neon Reckoning
+2. High-Tech Low-Life (Rebel Years)
+3. Wired Youth
+4. Digital Scars (17th Summer)
+5. Urban Drift (Title Track)
+6. Static Dreams
+7. System Failure (Rebellion)
+8. Afterglow (17 For Ever)
+
+Do not pitch audio from Urban Drift until the actual playable files/masters are identified and verified.
 
 ## Rules
 - Send one focused pitch, not a bulk attachment dump.
-- Use public streaming/site links first. Send WAV masters only if specifically requested.
+- Use public streaming/site links first. Send WAV masters only if specifically requested or where a label's official demo policy requires unreleased/private material.
 - Match the lead track to the recipient's roster or stated needs.
 - Never claim a reply, delivery, interest, representation, placement or deal unless verified.
 - Respect submission policies. Do not submit to services that explicitly reject AI-created/AI-assisted music when eligibility is uncertain.
@@ -60,12 +92,12 @@ Important: absence of a bounce is not proof that a human received, opened, or li
 - VOZ Records — Yokohama independent label; official contact page welcomes demo links from aspiring artists. FORM REQUIRED.
 
 ### Germany
-- Pride & Joy Music — excellent AOR / melodic rock / hard rock fit. Official band-application route is b.schwanke@prideandjoy.de / info@prideandjoy.de, but they explicitly require unreleased material. HOLD until a genuinely unreleased KAM DRIDI track/version and stream/download link are verified. Do not present the already-released 17 For Ever album track as unreleased.
+- Pride & Joy Music — excellent AOR / melodic rock / hard rock fit. The unreleased-material requirement is now satisfied in principle because the artist has confirmed unreleased project/version material. NEXT BLOCKER: identify the exact unreleased audio to submit and provide the private stream/download link required by the label. Do not send the public album master as the unreleased demo.
 
 ### Australia
-- Golden Robot Records / Golden Robot Global Entertainment — strong rock/hard-rock roster and official artist-submission route asks for an EPK/music link plus a reason for submission. FORM REQUIRED; no verified direct A&R submission email found, so do not invent/bypass one.
+- Golden Robot Records / Golden Robot Global Entertainment — strong rock/hard-rock roster and official artist-submission route asks for an EPK/music link plus a reason for submission. The unreleased 17 For Ever Australian Maxi Single is a strong tailored angle. FORM REQUIRED; no verified direct A&R submission email found, so do not invent/bypass one.
 - +1Records Australia — Brisbane independent rock label listens to demos, but its official site currently says it is not looking to sign anyone. LOW PRIORITY / networking only.
-- Underfoot Records — Australian independent label with a public demo policy and info@underfootrecords.com.au, but its stated preferred submission route asks for a SoundCloud channel and three standout tracks. HOLD until a compliant SoundCloud route exists or policy changes.
+- Underfoot Records — Australian independent label with a public demo policy and info@underfootrecords.com.au, but its stated preferred submission route asks for a SoundCloud channel and three standout tracks. HOLD until a compliant SoundCloud/private-listening route exists or policy changes.
 
 ### Worldwide / other strong fits
 - Eclipse Records — established heavy metal / hard rock label actively accepts demos through its official website form. FORM REQUIRED.
@@ -85,6 +117,6 @@ Important: absence of a bounce is not proof that a human received, opened, or li
 3. Check for replies daily during the first week.
 4. Continue worldwide research for no-fee, explicit-submission label/management/radio targets and match the right track.
 5. Prioritize Japan, Germany and Australia when there is a legitimate fit, but do not limit outreach geographically.
-6. For 17 For Ever Australian maxi-single outreach, first verify the exact maxi versions and obtain playable links/files; use unreleased versions only where a label requires unreleased music.
+6. Identify and verify the exact unreleased audio files for the Australian Maxi Single, Echoes UN LIVE IN BRASIL and Urban Drift, then create a durable private listening/download route for labels that require unreleased material.
 7. If a recipient asks for masters, send the uploaded high-quality files only after verifying which version they requested.
 8. Do not agree to publishing, management, label, sync or paid-service terms automatically; bring any concrete offer back for review first.
