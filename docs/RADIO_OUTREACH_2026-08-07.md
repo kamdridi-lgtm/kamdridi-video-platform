@@ -56,12 +56,40 @@
 - Submission: SENT via Outlook.
 - Current truth status: sent; no immediate bounce observed; delivery/open/listen/airplay not proven.
 
+### KAFM — Colorado
+- Current Rocky Mountain Community Radio submission page lists `guy@kafmcommunityradio.org` for music submissions by email with a link.
+- 320 kbps tagged MP3 access: Google Drive reader permission successfully granted.
+- Submission: SENT via Outlook.
+- Current truth status: sent; no immediate bounce observed; delivery/open/listen/airplay not proven.
+
+### KVNF — Colorado
+- Current Rocky Mountain Community Radio submission page says KVNF accepts MP3/WAV submissions at `andrea@kvnf.org` and prefers WAV.
+- 320 kbps tagged MP3 access: Google Drive reader permission successfully granted; WAV available if requested.
+- Submission: SENT via Outlook.
+- Current truth status: sent; no immediate bounce observed; delivery/open/listen/airplay not proven.
+
+### KZMU — Utah
+- Current Rocky Mountain Community Radio submission page lists digital submissions to `music-director@kzmu.org`.
+- 320 kbps tagged MP3 access: Google Drive reader permission successfully granted.
+- Submission: SENT via Outlook.
+- Current truth status: sent; no immediate bounce observed; delivery/open/listen/airplay not proven.
+
 ## Researched but not sent
 
 ### KUTX — Austin
 - Current official route asks for streaming link + Google Drive/Dropbox WAV link to `music@kutx.org`.
 - Google Drive reader sharing attempt to `music@kutx.org` failed because the address has no Google account and the available connector cannot send the required Drive invitation notification.
 - Do not send an inaccessible Drive link. Hold until a public/no-login download route exists.
+
+### The Colorado Sound
+- Current submission guidance accepts WAV or 320 MP3 / download links at `music@coloradosound.org`.
+- Google Drive reader sharing attempt failed because the address has no Google account and the connector cannot send the required notification invitation.
+- Hold rather than send an inaccessible download link.
+
+### KDUR
+- Current route accepts WAV/MP3 at `KDUR_ST1@fortlewis.edu`.
+- Google Drive reader sharing attempt failed because the address has no Google account and the connector cannot send the required notification invitation.
+- Hold rather than send an inaccessible link.
 
 ### WNCW
 - Current official route accepts singles and WAV/MP3 via Drive/Dropbox but asks artists to flag obscene/indecent/profane content.
@@ -73,8 +101,8 @@
 
 ## Australia lane
 - `17 FOR EVER` Australia remains separate from Echoes — UN LIVE IN BRASIL.
-- Current Library search has not yet identified a master explicitly named/mapped as `17 FOR EVER — Exclusive Australian Version`.
-- Do not substitute the Brasil unplugged file or public album master and call it the Australian exclusive.
+- Current Library audio listing still shows only two clearly titled `17 for ever` files, both named as Unplugged Youth Choir versions; neither is verified as the Exclusive Australian Version.
+- Do not substitute the Brasil/unplugged file or public album master and call it the Australian exclusive.
 - Strong Australia route already verified: FBi.radio (`music@fbiradio.com`) accepts stream + high-quality Google Drive/Dropbox download from international artists. Hold until the exact intended 17 FOR EVER radio master is mapped.
 
 ## Truth rules
