@@ -110,6 +110,94 @@ Hi — I came across Black Moon June and thought the band’s heavy hard-rock id
 DM draft:
 Hi — I saw the rollout for “Parallel with the Sun” and “Stain”. The grungegaze / heavy-alt direction feels like a natural fit for a cinematic short-form teaser. I run KAMDRIDI Visuals and I’m launching a $99 one-project promo teaser built around the band’s actual track, artwork/photos and visual direction. Happy to send the link and examples if useful.
 
+### Lead 8 — LOWMIND
+- Munich, Germany
+- Independent alternative rock
+- Latest single: “Land of Gold (Remix)” — June 26, 2026
+- Public contact: band@lowmind.de
+- Angle: active independent band, recent release, melancholic/complex alternative-rock identity that lends itself to atmospheric visuals.
+
+Draft:
+Subject: Cinematic teaser idea for Land of Gold
+
+Hi LOWMIND,
+
+I came across the new “Land of Gold” remix and thought the contrast between the heavier guitar side and the melancholic atmosphere could translate especially well into a short cinematic release visual.
+
+I run KAMDRIDI Visuals and I’m launching a $99 one-project teaser for independent artists, built around the actual track, artwork/photos and the band’s own direction.
+
+If that sounds useful, I can send the project link and examples.
+
+Best,
+Kam Dridi
+KAMDRIDI Visuals
+
+### Lead 9 — HAINE
+- Malta
+- Modern deathcore / groove / extreme metal
+- Latest single: “Kings / Queens” — July 14, 2026
+- Fresh 2026 campaign and recent Wacken appearance
+- Contact route: official website/social channels
+- Angle: extremely visual heavy-music identity; ideal candidate for a dark high-impact teaser.
+
+DM draft:
+Hi HAINE — I saw the “Kings / Queens” rollout. The deathcore/groove direction and the visual identity around the release feel made for a short, dark cinematic teaser. I run KAMDRIDI Visuals and I’m launching a $99 one-project promo visual built around the band’s actual song, artwork and direction. Happy to send the link/examples if useful.
+
+### Lead 10 — Cherry Daisies
+- Adelaide, Australia
+- Female-fronted alternative folk-rock / piano-led indie rock
+- Single: “Easy” — July 11, 2026
+- Cinematic builds, violin, piano and large harmonies
+- Contact route: official EPK / artist channels
+- Angle: different from the heavy-rock leads but unusually strong cinematic structure; useful test of a broader market.
+
+DM draft:
+Hi Cherry Daisies — I came across “Easy” and the piano/violin build into the larger harmonies immediately suggested a cinematic short-form visual. I run KAMDRIDI Visuals and I’m launching a $99 one-project music teaser built around the artist’s actual track, artwork/photos and direction. Happy to send the link and examples if useful.
+
+### Lead 11 — ORO
+- Las Vegas, USA
+- Independent experimental indie rock / psychedelic rock
+- Latest single: “Solar Ghost”; active 2026 touring
+- Public contact: oroband@email.com
+- Angle: cosmic/psychedelic identity gives us a very obvious visual concept without forcing a generic rock aesthetic.
+
+Draft:
+Subject: Visual teaser idea for Solar Ghost
+
+Hi ORO,
+
+I came across “Solar Ghost” and the cosmic/psych direction immediately felt like a strong match for a short cinematic promo visual.
+
+I run KAMDRIDI Visuals and I’m launching a $99 one-project teaser for independent artists, built around the actual track, artwork/photos and the artist’s own visual direction rather than a stock template.
+
+If useful, I can send the project link and examples.
+
+Best,
+Kam Dridi
+KAMDRIDI Visuals
+
+### Lead 12 — Stigmata
+- Sri Lanka
+- Heavy band with an August 2026 single campaign currently active
+- Official site is already teasing the new single
+- Contact route: official website/social channels
+- Angle: contact before or during the release campaign, when promotional visual demand is highest.
+
+DM draft:
+Hi Stigmata — I saw the August single teaser campaign. I make short custom cinematic promo visuals for independent rock/metal artists, and this is exactly the stage where a second visual asset can help keep a rollout moving. The launch offer is $99 for one project, built around the actual track, artwork and band direction. If useful, I can send the link and examples.
+
+## Priority order for first outreach
+1. Farline — exact cinematic-rock fit + direct public email.
+2. LOWMIND — recent release + direct public band email.
+3. ORO — direct public email + highly visual concept.
+4. Sierra Levesque — direct public email + strong modern-rock fit.
+5. Jules in July — Canadian + direct public email + visually rich genres.
+6. HAINE — very strong visual fit; use official DM/contact route.
+7. Cloned Apparition — Montreal/local + very recent album.
+8. Stigmata — active August campaign; timing is excellent.
+9. Cherry Daisies — cinematic music but outside core heavy-rock niche; useful expansion test.
+10. Titan Arum / Johnny B / Black Moon June — retain as secondary outreach.
+
 ## Short DM version
 Saw your new single — strong visual potential. I make custom cinematic music teasers for independent artists. Launch offer is $99, one project, no subscription. Built around your actual track + artwork + direction. Want the link/examples?
 
