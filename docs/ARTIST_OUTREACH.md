@@ -43,9 +43,10 @@ Create real opportunities for KAM DRIDI as an artist: management, label support,
 | The Prog Report | Progressive rock media / playlist coverage | Official artist-submission page invites unsigned/independent artists to progreportmusic@gmail.com and requests links only | War Machines | SENT via Outlook; no immediate bounce found in recent-mail check; final delivery not proven |
 | Bickee Music | Japanese independent rock / hard rock / heavy metal / AOR label | Official site says it is always looking for talented artists and publishes direct contact info@bickee-music.com | War Machines; Japan release / licensing / physical-edition discussion | SENT via Outlook; visible in Sent Items; no immediate bounce in latest recent-mail check; final delivery not proven |
 | Friend of Mine Records | Japanese independent label / Japan CD release and promotion partner | Official site welcomes demos from artists worldwide and lists info@friendofminerecords.com | War Machines; Japanese promotion / physical edition / licensing | SENT via Outlook; visible in Sent Items; no immediate bounce in latest recent-mail check; final delivery not proven |
+| Super Delicious Records | US independent label with global reach; hard rock / metal / punk focus | Official submission policy says roster is expanding, requests links only at submissions@superdeliciousrecords.com | War Machines + international growth plan + 17 For Ever Australian maxi-single campaign | SENT via Outlook; send call succeeded; final delivery not proven |
 
 ## Current verified count
-- Artist outreach emails sent via Outlook: 14
+- Artist outreach emails sent via Outlook: 15
 - Verified replies: 0
 - Verified positive replies: 0
 - Verified deals / representation / placements: 0
@@ -65,6 +66,9 @@ Important: absence of a bounce is not proof that a human received, opened, or li
 - Golden Robot Records / Golden Robot Global Entertainment — strong rock/hard-rock roster and official artist-submission route asks for an EPK/music link plus a reason for submission. FORM REQUIRED; no verified direct A&R submission email found, so do not invent/bypass one.
 - +1Records Australia — Brisbane independent rock label listens to demos, but its official site currently says it is not looking to sign anyone. LOW PRIORITY / networking only.
 - Underfoot Records — Australian independent label with a public demo policy and info@underfootrecords.com.au, but its stated preferred submission route asks for a SoundCloud channel and three standout tracks. HOLD until a compliant SoundCloud route exists or policy changes.
+
+### Worldwide / other strong fits
+- Eclipse Records — established heavy metal / hard rock label actively accepts demos through its official website form. FORM REQUIRED.
 
 ## Excluded / deferred targets
 - Fenger Music — explicitly rejects AI-generated submissions; do not submit while eligibility is uncertain.
