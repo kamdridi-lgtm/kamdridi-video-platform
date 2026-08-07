@@ -34,6 +34,20 @@ Create real opportunities for KAM DRIDI as an artist: management, label support,
 | Moksha 360 | Artist services / management / live | Site has artist submissions and public info@moksha360.com | Too Fast Too Young / War Machines / Our Lost Dreams | SENT via Outlook; delivery not yet verified |
 | Frontiers Music | International hard rock / metal record label | Official submission page invites hard rock/metal submissions to info@frontiers.it and requests streaming links instead of unsolicited MP3s | War Machines + Too Fast Too Young + Our Lost Dreams | SENT via Outlook; delivery not yet verified |
 | OurTownRadio | Independent online radio | Public submission instructions accept artist bio + music links at music@ourtownradio.com | War Machines / Too Fast Too Young, with Our Lost Dreams as broader radio track | SENT via Outlook; delivery not yet verified |
+| Boonsdale Records | Toronto metal / hard rock label | Official site says it accepts unsolicited material and streaming links; info@boonsdalerecords.com | War Machines | SENT via Outlook; no immediate bounce found in recent-mail check; final delivery not proven |
+| Gestion de talents EAC | Montreal artist management / live promotion | Official site says it represents rock artists and invites new talent demos; info@eacmanagement.ca | War Machines | SENT via Outlook; no immediate bounce found in recent-mail check; final delivery not proven |
+| AJW Management | Toronto artist management / performance booking | Official site explicitly accepts demo submissions; aidan@ajwmgmt.com | Too Fast Too Young | SENT via Outlook; no immediate bounce found in recent-mail check; final delivery not proven |
+| Deko Entertainment | Rock-oriented independent label | Official contact page lists info@dekoentertainment.com for NEW ARTIST SUBMISSIONS | War Machines | SENT via Outlook; no immediate bounce found in recent-mail check; final delivery not proven |
+| The Prog Report | Progressive rock media / playlist coverage | Official artist-submission page invites unsigned/independent artists to progreportmusic@gmail.com and requests links only | War Machines | SENT via Outlook; no immediate bounce found in recent-mail check; final delivery not proven |
+
+## Current verified count
+- Artist outreach emails sent via Outlook: 12
+- Verified replies: 0
+- Verified positive replies: 0
+- Verified deals / representation / placements: 0
+- Known artist-campaign bounces: 0 at the time of the latest recent-mail check
+
+Important: absence of a bounce is not proof that a human received, opened, or listened to the email.
 
 ## Excluded / deferred targets
 - Fenger Music — explicitly rejects AI-generated submissions; do not submit while eligibility is uncertain.
@@ -41,9 +55,10 @@ Create real opportunities for KAM DRIDI as an artist: management, label support,
 - InStyle Music — explicitly rejects music created using AI in any capacity; do not submit.
 - Frwrd Mgmt — $25 paid submission required; no payment without explicit approval.
 - Frontiers & Beyond form — not needed because Frontiers' official submission page also accepts email submissions to info@frontiers.it; email route used instead.
+- PariahRocks / Hard, Heavy & Hair — strong format fit, but their artist route requires broadcast-quality WAV/MP3 or a durable direct download link and explicitly says not to use Spotify/YouTube. Defer until a compliant download link is available.
 
 ## Next actions
-1. Check Outlook for immediate bounces from all artist pitches.
+1. Check Outlook for bounces and replies from all artist pitches.
 2. Record only verified bounces/replies. Absence of a bounce is not proof of reading.
 3. Check for replies daily during the first week.
 4. Research the next no-fee, explicit-submission management/label/radio targets and match the right track.
