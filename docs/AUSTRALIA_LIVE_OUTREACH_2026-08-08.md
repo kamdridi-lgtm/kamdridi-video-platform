@@ -85,6 +85,24 @@ Do not sign contracts, accept exclusivity, commit rights, buy travel, spend mone
 - Pitch: international solo rock support/show enquiry, Jan–Feb 2027
 - Current truth status: **SENT; reply/booking not proven**
 
+### The Old Bar — Melbourne
+- Type: active Fitzroy live-music venue; official site publishes `bandbookings@theoldbar.com.au`
+- Pitch sent 2026-08-08: solo hard rock support slot / mixed original-music bill, Jan–Feb 2027
+- Requested in first contact: date, set length, payment/deal structure and technical requirements
+- Current truth status: **SENT; reply/booking not proven**
+
+### Mojos Bar — North Fremantle / Perth
+- Type: approximately 200-capacity live venue; official site states it hosts emerging, national and international acts and publishes booking contact `chippedpolishmgmt@gmail.com`
+- Pitch sent 2026-08-08: solo rock show/support enquiry, Jan–Feb 2027
+- Requested in first contact: date, set length, payment/deal structure and technical requirements
+- Current truth status: **SENT; reply/booking not proven**
+
+### Shotkickers — Melbourne
+- Type: active live-music venue in Thornbury; official contact page says “Looking for a gig?” and publishes `gigs@shotkickers.com`
+- Pitch sent 2026-08-08: solo hard rock support slot / mixed original-music bill, Jan–Feb 2027
+- Requested in first contact: date, set length, payment/deal structure and technical requirements
+- Current truth status: **SENT; reply/booking not proven**
+
 ### Adelaide Fringe 2027 — Artist & Venue Team
 - Type: open-access arts/festival route
 - Initial enquiry sent asking whether international solo live format is practical
@@ -95,6 +113,18 @@ Do not sign contracts, accept exclusivity, commit rights, buy travel, spend mone
   3. typical minimum venue/technical costs;
   4. whether a 20–35 minute solo set is viable standalone or better on a shared bill/showcase.
 - Current truth status: **CONTACT ESTABLISHED / INFORMATION REQUEST PENDING; no booking**
+
+## Checked / rejected routes
+
+### Stay Gold — Melbourne
+- Official site currently states the venue is **closed**.
+- Older booking information remains indexed, but no outreach should be sent.
+- Current truth status: **REJECTED / CLOSED**
+
+### Oxford Art Factory — Sydney
+- Official site accepts band submissions through its dedicated submission form.
+- Respect form-only route; do not bypass with a guessed booking email.
+- Current truth status: **FORM ROUTE AVAILABLE / NOT YET SUBMITTED**
 
 ## Australia radio connected to the live campaign
 
