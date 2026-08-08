@@ -23,12 +23,22 @@
 - Video metadata: H.264, 1280x720, 30 fps; AAC stereo 44.1 kHz / ~128 kbps; original duration ~5:42.
 - Visual inspection confirms real stage/crowd footage in Tangier, Morocco, including large audience, wide stage views, and KAM DRIDI visibly performing at the microphone.
 - The original opening contains an older title sequence (`Live In / Tangier / Morocco / August 09 2010 / KAM DRIDI`).
-- A Claudio review cut was created by removing that old title sequence only, starting on the first clean crowd keyframe at approximately 00:18.87. The live audio and remaining video streams were preserved without re-encoding or replacement.
-- Prepared file: `KAM_DRIDI_Live_Tangier_2010_Claudio.mp4`, duration ~5:23.49, size ~96.4 MB.
-- Google Drive file ID: `1u5i6yuuCdBx-3WsuJTvnG5ZxBkW-FOUS`.
-- Drive preview URL: `https://drive.google.com/file/d/1u5i6yuuCdBx-3WsuJTvnG5ZxBkW-FOUS/view?usp=drivesdk`.
-- Recipient-level Drive sharing to `claudio@expoliveproject.com` FAILED because that email has no Google account and the connector cannot send the required Google invitation notification.
-- Therefore **do not send the current private Drive link yet**. It would risk being inaccessible.
+- A Claudio review cut was first created by removing that old title sequence at approximately 00:18.87, then trimmed **8 additional seconds** at the artist's request so the final local review cut starts directly on the stage/crowd material.
+- Final local review file: `KAM_DRIDI_Live_Tangier_2010_Claudio_FINAL.mp4`.
+- The live audio remains the authentic camera recording; no voice replacement or fake live audio was introduced.
+
+## Public YouTube route
+- The artist verified that an existing public YouTube upload of the real performance is available as `Kam Dridi "You Are The One" (Live in Morocco)`.
+- Public URL supplied by the artist: `https://youtu.be/-WqZttYH1EA`.
+- This public YouTube route is preferable to the private Drive copy because Claudio specifically requested a simple link with no download or attachment.
+
+## Delivery to Claudio
+- On 2026-08-08, a reply was sent in the existing Claudio/Expolive Outlook thread containing the public YouTube link only plus brief context:
+  - `Here is a real live performance from Morocco, with the original camera audio:`
+  - `https://youtu.be/-WqZttYH1EA`
+  - `This is an archive performance, but it shows the live setup and stage performance clearly.`
+- Outlook API accepted the reply action without error.
+- This proves only that the send action was accepted; it does **not** prove final delivery, opening, viewing, listening, interest, booking, representation, or a deal.
 
 ## Audio technical note
 - The source is authentic camera audio and is intentionally not being remixed or replaced for this proof-of-performance use.
@@ -40,6 +50,6 @@
 - The Morocco clip is real archive live footage with real camera audio and may honestly be described that way.
 
 ## Required next action
-- Make the prepared video accessible by a real no-login streaming/preview URL (best option: YouTube Unlisted; acceptable fallback: make the existing Drive file `Anyone with the link — Viewer`).
-- Once access is verified, reply in the existing Claudio/Expolive thread with a concise note such as: `Hi Claudio, absolutely — here is one real archive live performance from Tangier, Morocco (2010), with the original camera audio. [LINK] Best, Kam`.
-- Do not call it a current 2026 performance and do not imply the audio is a console mix.
+- Wait for Claudio's response.
+- If Claudio asks for something current, then consider preparing a 2026 live-studio performance (for example `Too Fast Too Young` with a true lead-vocal-free backing track) and clearly label it as a current live studio session.
+- Do not follow up again automatically unless he engages or the campaign policy explicitly allows a single later follow-up.
