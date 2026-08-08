@@ -103,6 +103,36 @@ Do not sign contracts, accept exclusivity, commit rights, buy travel, spend mone
 - Requested in first contact: date, set length, payment/deal structure and technical requirements
 - Current truth status: **SENT; reply/booking not proven**
 
+### MoshPit Bar — Sydney
+- Type: small rock’n’roll venue, approximately 100 capacity; official site publishes `bands@moshpitbar.com.au` for band bookings
+- Pitch sent 2026-08-08: solo cinematic hard rock, support/original-music-night enquiry, Jan–Feb 2027
+- Requested in first contact: date, set length, payment/deal structure and technical requirements
+- Current truth status: **SENT; reply/booking not proven**
+
+### Brooklyn Standard — Brisbane
+- Type: live-music venue; official band-booking page explicitly welcomes touring, local and international acts and publishes `gm@drunkenmonkeygroup.com.au` for band enquiries
+- Pitch sent 2026-08-08: international solo rock act, Jan–Feb 2027
+- Requested in first contact: date, set length, payment/deal structure and technical requirements
+- Current truth status: **SENT; reply/booking not proven**
+
+### Suzie Wong's Good Time Bar — Brisbane
+- Type: live-music bar; official site states live music five nights per week and publishes `suziewongs2025@gmail.com` for band bookings
+- Pitch sent 2026-08-08: solo cinematic hard rock / support or live-night enquiry, Jan–Feb 2027
+- Requested in first contact: date, set length, payment/deal structure and technical requirements
+- Current truth status: **SENT; reply/booking not proven**
+
+### The Charles Hotel — Perth
+- Type: established live-music venue with dedicated bandroom; official site publishes `info@charleshotel.com.au` for band bookings
+- Pitch sent 2026-08-08: solo hard rock show/support enquiry, Jan–Feb 2027
+- Requested in first contact: date, set length, payment/deal structure and technical requirements
+- Current truth status: **SENT; reply/booking not proven**
+
+### The Station SC — Sunshine Coast
+- Type: multi-space live-music/event venue; official site publishes `music@thestationsc.com.au` for band bookings
+- Pitch sent 2026-08-08: international solo rock act / original-music bill or support opportunity, Jan–Feb 2027
+- Requested in first contact: date, set length, payment/deal structure and technical requirements
+- Current truth status: **SENT; reply/booking not proven**
+
 ### Adelaide Fringe 2027 — Artist & Venue Team
 - Type: open-access arts/festival route
 - Initial enquiry sent asking whether international solo live format is practical
@@ -124,7 +154,13 @@ Do not sign contracts, accept exclusivity, commit rights, buy travel, spend mone
 ### Oxford Art Factory — Sydney
 - Official site accepts band submissions through its dedicated submission form.
 - Respect form-only route; do not bypass with a guessed booking email.
+- Browser automation was unavailable in the current session, so the form has not been submitted yet.
 - Current truth status: **FORM ROUTE AVAILABLE / NOT YET SUBMITTED**
+
+### Perth Band Bookings
+- Agency registration route requires a professional cover act with roughly three hours or more of repertoire.
+- This does not match KAM DRIDI's 20–35 minute original solo set.
+- Current truth status: **REJECTED / WRONG PRODUCT FIT**
 
 ## Australia radio connected to the live campaign
 
