@@ -39,6 +39,12 @@
 - Previously contacted with `17 FOR EVER (Semi-Unplugged — UN LIVE IN BRASIL Night #2 Version)`.
 - Current truth status: SENT; delivery/open/listen/airplay not proven.
 
+### UCFM — Canberra
+- Current public UCFM page lists `music@ucfm.com.au` for music submissions and says the station plays local and international tracks.
+- Attempted recipient-level Drive share for `17 FOR EVER (Australian Exclusive Version)`.
+- Share FAILED because the address has no Google account and the current connector cannot send the required invitation notification.
+- HOLD rather than send an inaccessible private file link.
+
 ### Triple R / Edge / SYN / other 320-or-WAV routes
 - HOLD the Australian exclusive reference where a station explicitly requires true 320 kbps or WAV.
 - Do not upconvert the ~189 kbps reference and misrepresent it.
@@ -84,13 +90,32 @@
 - Verified in Sent Items.
 - Current truth status: SENT; delivery/open/listen/airplay not proven.
 
+### PeruRadio — Perú
+- Current official site says it broadcasts genres and subgenres from Peru and `todo el planeta`, explicitly listing Rock, HardRock, Alternative, Metal and related styles.
+- Public communication address `peruradio@gmail.com` was used.
+- Recipient-level Drive reader access to the verified 320 kbps War Machines file succeeded before sending.
+- Spanish pitch sent via Outlook with `kamdridi.com` and press-kit link.
+- Current truth status: SENT; delivery/open/listen/airplay not proven.
+
+### Rock RA — Argentina
+- Current public station listing identifies Rock RA as a Buenos Aires online rock / classic-rock station and publishes `devotoradios@gmail.com` plus its official site.
+- Recipient-level Drive reader access to War Machines succeeded before sending.
+- Spanish pitch sent via Outlook with `kamdridi.com` and press-kit link.
+- Current truth status: SENT; delivery/open/listen/airplay not proven.
+
+### Distorsión — Uruguay
+- Current official site describes Distorsión as a rock-content platform/program covering Uruguay, the region and the world, with global projection, and publishes `distorsionuy@gmail.com`.
+- Recipient-level Drive reader access to War Machines succeeded before sending.
+- Spanish pitch sent via Outlook with `kamdridi.com` and press-kit link.
+- Current truth status: SENT; delivery/open/listen/airplay not proven.
+
 ### Frecuencia Rock 95.3 — Chile
 - Current official site is a rock station in Puerto Varas and publishes `contacto@frecuenciarock.cl`.
 - Google Drive reader sharing to this address FAILED because the address has no Google account and the current connector cannot send the required invitation notification.
 - HOLD rather than send an inaccessible private file link.
 
 ## Next South America queue
-- Continue Argentina / Brasil / Perú / Chile only through current public, no-fee routes.
+- Continue Argentina / Brasil / Perú / Chile / Uruguay only through current public, no-fee routes.
 - Prefer Gmail / Google-address recipients where Drive permission can be verified before sending.
 - Argentina: Rock Local Radio actively says `ENVIANOS TU MÚSICA`, but its current route appears form-based; do not claim submitted unless the form is actually completed.
 - Perú: Cixrock Records / Cixrock Radio currently says `Envíanos tu música y la pasamos en la radio`; exact direct submission email still needs verification before sending.
