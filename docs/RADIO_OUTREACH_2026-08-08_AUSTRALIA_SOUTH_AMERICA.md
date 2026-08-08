@@ -21,6 +21,15 @@
 - Verified in Sent Items.
 - Current truth status: SENT; delivery/open/listen/airplay not proven.
 
+### 3MDR 97.1 FM — Victoria
+- Current 3MDR contact page explicitly lists a Music Submissions / Music Library route and instructs senders to mark submissions for the Music Library.
+- Contact used: `office@3mdr.com`, subject marked `ATTN Music Library`.
+- Track: `17 FOR EVER (Australian Exclusive Version)`.
+- Recipient-level Google Drive reader access to the clean Track 01 reference succeeded before sending.
+- Submission sent via Outlook with `kamdridi.com`.
+- Verified in Sent Items.
+- Current truth status: SENT; delivery/open/listen/airplay not proven.
+
 ### Radio 2CBD — NSW
 - Previously contacted with `17 FOR EVER (Australian Exclusive Version)`.
 - Submission visible in Sent Items.
@@ -30,9 +39,12 @@
 - Previously contacted with `17 FOR EVER (Semi-Unplugged — UN LIVE IN BRASIL Night #2 Version)`.
 - Current truth status: SENT; delivery/open/listen/airplay not proven.
 
-### Triple R / Edge / other 320-or-WAV routes
+### Triple R / Edge / SYN / other 320-or-WAV routes
 - HOLD the Australian exclusive reference where a station explicitly requires true 320 kbps or WAV.
 - Do not upconvert the ~189 kbps reference and misrepresent it.
+- SYN currently requests a downloadable 320 kbps MP3 or WAV; hold until a true compliant Australian-version master is available.
+- Rebel FM is a strong rock fit and welcomes artists worldwide, but explicitly rejects email submissions and requires its web form; do not claim submitted without completing the form.
+- PBS FM accepts international music but currently prefers its digital submission form; no form submission has been made.
 
 ## South America — War Machines
 
@@ -57,15 +69,32 @@
 - Verified in Sent Items.
 - Current truth status: SENT; delivery/open/listen/airplay not proven.
 
+### Radio Rock Nacional — Argentina
+- Current Radio Rock Nacional app listing identifies the station as Argentina-focused rock radio and publishes `djroquesalazar@gmail.com` as the current support/contact email for Roque Salazar.
+- This is a current station contact, not a separately labelled submission address.
+- Recipient-level Drive reader access to the verified 320 kbps War Machines file succeeded before sending.
+- A concise Spanish consideration pitch was sent via Outlook with `kamdridi.com`.
+- Verified in Sent Items.
+- Current truth status: SENT; delivery/open/listen/airplay not proven.
+
+### Histrionico Web Radio — Chile
+- Current station profile describes rock / blues / indie / grunge programming and still displays its artist call to send music to `histrionicoweb@gmail.com`.
+- Recipient-level Drive reader access to the verified 320 kbps War Machines file succeeded before sending.
+- Pitch sent in Spanish via Outlook with `kamdridi.com`.
+- Verified in Sent Items.
+- Current truth status: SENT; delivery/open/listen/airplay not proven.
+
 ### Frecuencia Rock 95.3 — Chile
 - Current official site is a rock station in Puerto Varas and publishes `contacto@frecuenciarock.cl`.
 - Google Drive reader sharing to this address FAILED because the address has no Google account and the current connector cannot send the required invitation notification.
 - HOLD rather than send an inaccessible private file link.
 
 ## Next South America queue
-- Continue Chile / Argentina / Brasil only through current public, no-fee routes.
+- Continue Argentina / Brasil / Perú / Chile only through current public, no-fee routes.
 - Prefer Gmail / Google-address recipients where Drive permission can be verified before sending.
-- Argentina: IndieGo Radio is a strong thematic lead because its site explicitly invites independent artists to email MP3s and project/contact information, but the exact current submission email still needs to be independently verified before sending.
+- Argentina: Rock Local Radio actively says `ENVIANOS TU MÚSICA`, but its current route appears form-based; do not claim submitted unless the form is actually completed.
+- Perú: Cixrock Records / Cixrock Radio currently says `Envíanos tu música y la pasamos en la radio`; exact direct submission email still needs verification before sending.
+- Brasil: Rockpira Web Rádio is a current independent-rock station and explicitly has an `Envie sua Música` route, but its public page obfuscates the email in the web index; exact recipient must be resolved before sending.
 - Brasil: EHB Rock is a strong rock fit and accepts 320 kbps MP3/WAV, but the current route is account/form based and includes authorization/rights fields; do not submit automatically without explicit review of those declarations.
 
 ## Outcome status
