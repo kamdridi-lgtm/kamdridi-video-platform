@@ -52,9 +52,18 @@ https://youtu.be/-WqZttYH1EA
 - optional synchronized video/lighting
 - full advance rider: `docs/KAM_DRIDI_SOLO_LIVE_TECH_RIDER.md`
 
-## Picture
-**REQUIRED BEFORE FORM SUBMISSION.**
-Use an approved current KAM DRIDI press/live image. Do not invent, substitute or alter the artist image without approval.
+## Picture — official approved candidate located
+KAM DRIDI's own official `/media` page labels the following image **Portrait Still** inside its **Approved Stills** section:
+
+- Site/public URL: `https://kamdridi.com/assets/images/gallery/p03_portrait_mic.jpg`
+- Site repository path: `band-site/public/assets/images/gallery/p03_portrait_mic.jpg`
+- Repository file size: approximately 430 KB
+- Format: JPG
+- Site media title: **Portrait Still**
+
+This is therefore a substantially stronger submission candidate than choosing an unidentified Drive image. Before an actual form upload, use this exact existing file and do not alter or replace the artist likeness.
+
+Other official Approved Stills exposed by the same media page are Campaign Hero (`/assets/images/gallery/p01_hero.jpg`) and Live Stage (`/assets/images/band/live_stage.jpg`). The Portrait Still is the default TEG candidate because the form asks for an artist picture.
 
 ## Commercial position if contacted
 Do not immediately accept. Ask for:
@@ -73,4 +82,4 @@ Do not immediately accept. Ask for:
 Then assess total cost and strategic value before confirming.
 
 ## Current truth status
-**READY TO SUBMIT / OFFICIAL FORM REQUIRED / NOT YET SUBMITTED.**
+**SUBMISSION PACKAGE COMPLETE / APPROVED-STILL CANDIDATE IDENTIFIED / OFFICIAL FORM REQUIRED / NOT YET SUBMITTED.**
