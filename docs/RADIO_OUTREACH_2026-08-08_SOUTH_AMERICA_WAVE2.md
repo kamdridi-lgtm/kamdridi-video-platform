@@ -42,6 +42,26 @@
 - Current truth status: CONFIRMED BOUNCE / INVALID PUBLISHED EMAIL ROUTE.
 - Do not retry a guessed ASCII variant such as `deptotecnico@cce.org.uy` unless an official/current source independently verifies that exact address.
 
+## Synthetika Internet Radio — Lima, Peru
+- Current official station page says Synthetika promotes independent bands and artists from around the world and broadcasts primarily synthpop, futurepop, EBM, electropop, darkwave, industrial and gothic rock to Latin America.
+- Official demo/promotion contact used: `info.synthetika@gmail.com`.
+- War Machines was positioned accurately as cinematic hard rock with industrial textures; no claim was made that it is a pure industrial track.
+- Recipient-level Google Drive access to the clean 320 kbps radio copy: SUCCESS.
+- Spanish consideration pitch sent via Outlook with Drive MP3, public YouTube and kamdridi.com.
+- Verified in Sent Items.
+- No immediate nondelivery report observed at the first post-send check.
+- Current truth status: SENT; final delivery/open/listen/airplay not proven.
+
+## Rádio Darkzera — São Paulo, Brazil
+- Current official contact page describes Rádio Darkzera as darkwave, gothic and underground radio and explicitly says it is open to new music/projects from bands and artists in the alternative scene.
+- Official direct contact used: `radiodarkzera@gmail.com`.
+- War Machines was positioned accurately as cinematic hard rock with industrial textures.
+- Recipient-level Google Drive access to the clean 320 kbps radio copy: SUCCESS.
+- Portuguese consideration pitch sent via Outlook with Drive MP3, public YouTube and kamdridi.com.
+- Verified in Sent Items.
+- No immediate nondelivery report observed at the first post-send check.
+- Current truth status: SENT; final delivery/open/listen/airplay not proven.
+
 ## Truth rules
 - Sent Items = sent from Outlook, not proof of final delivery.
 - Drive permission success = recipient access created, not proof of download/listen.
