@@ -4,7 +4,7 @@
 Get the first paid Cinematic Music Teaser order at $99 USD, then repeat a simple measurable process.
 
 ## Funnel
-DISCOVERED → QUALIFIED → READY TO CONTACT → CONTACTED → REPLIED → INTERESTED → PAYMENT SENT → PAID → INTAKE RECEIVED → PRODUCTION → DELIVERED
+DISCOVERED → QUALIFIED → READY TO CONTACT → CONTACTED → FOLLOWED UP → REPLIED → INTERESTED → PAYMENT SENT → PAID → INTAKE RECEIVED → PRODUCTION → DELIVERED
 
 ## Current offer
 - Product: Cinematic Music Teaser
@@ -15,21 +15,26 @@ DISCOVERED → QUALIFIED → READY TO CONTACT → CONTACTED → REPLIED → INTE
 
 ## Priority queue
 ### Active outreach
-1. Farline — outreach sent Aug 7, 2026
-2. LOWMIND — outreach sent Aug 7, 2026
-3. Sierra Levesque — outreach sent Aug 7, 2026
-4. Jules in July — outreach sent Aug 7, 2026
+1. Farline — outreach sent Aug 7, 2026; one follow-up sent Aug 10, 2026
+2. LOWMIND — outreach sent Aug 7, 2026; one follow-up sent Aug 10, 2026
+3. Sierra Levesque — outreach sent Aug 7, 2026; one follow-up sent Aug 10, 2026
+4. Jules in July — outreach sent Aug 7, 2026; one follow-up sent Aug 10, 2026
 5. Cloned Apparition — outreach sent Aug 7, 2026
 6. When Rivers Meet — outreach sent Aug 7, 2026
 
 ### Needs alternate route / next wave
-7. ORO — official published email bounced; do not retry same address
+7. ORO — official published email bounced; do not retry same address and do not follow up on the bounced thread
 8. HAINE — current release campaign; official website/social route
 9. Stigmata — current August single campaign; official website/social route
 10. Titan Arum — Canadian independent melodic metal
 11. Cherry Daisies — active rock prospect
 12. Black Moon June — independent hard rock
 13. Johnny B — cinematic rock fit
+
+## Follow-up verification — 2026-08-10
+Outlook was checked for replies from Farline, LOWMIND, Sierra Levesque and Jules in July/Bram since the Aug 7 outreach. No inbound reply was found from any of those four addresses as of this check. Exactly one short follow-up was then sent in each existing Outlook thread. ORO was not followed up because the original address had already bounced and the pipeline explicitly requires an alternate route.
+
+No prospect in this set is marked REPLIED, INTERESTED, PAYMENT SENT or PAID. Stripe remains the only source of truth for payment status.
 
 ## Daily operating rule
 Do not build an enormous unqualified list. Work a small queue completely.
@@ -45,14 +50,14 @@ Do not build an enormous unqualified list. Work a small queue completely.
 9. After payment, move immediately to intake/fulfillment.
 
 ## Tracker
-| Priority | Prospect | Contact route | Status | First contact | Follow-up due | Outcome |
+| Priority | Prospect | Contact route | Status | First contact | Follow-up | Outcome |
 |---|---|---|---|---|---|---|
-| A1 | Farline | hi@farlineofficial.com | CONTACTED | 2026-08-07 via Outlook | 2026-08-10 | Awaiting reply |
-| A2 | LOWMIND | band@lowmind.de | CONTACTED | 2026-08-07 via Outlook | 2026-08-10 | Awaiting reply |
-| A3 | Sierra Levesque | sierra.levesque.music@gmail.com | CONTACTED | 2026-08-07 via Outlook | 2026-08-10 | Awaiting reply |
-| A4 | Jules in July | bramjcole@gmail.com | CONTACTED | 2026-08-07 via Outlook | 2026-08-10 | Awaiting reply |
-| A5 | Cloned Apparition | clonedapparition@gmail.com | CONTACTED | 2026-08-07 via Outlook | 2026-08-10 | Awaiting reply |
-| A6 | When Rivers Meet | info@whenriversmeet.co.uk | CONTACTED | 2026-08-07 via Outlook | 2026-08-10 | Awaiting reply |
+| A1 | Farline | hi@farlineofficial.com | FOLLOWED UP | 2026-08-07 via Outlook | 2026-08-10 via existing Outlook thread | Awaiting reply |
+| A2 | LOWMIND | band@lowmind.de | FOLLOWED UP | 2026-08-07 via Outlook | 2026-08-10 via existing Outlook thread | Awaiting reply |
+| A3 | Sierra Levesque | sierra.levesque.music@gmail.com | FOLLOWED UP | 2026-08-07 via Outlook | 2026-08-10 via existing Outlook thread | Awaiting reply |
+| A4 | Jules in July | bramjcole@gmail.com | FOLLOWED UP | 2026-08-07 via Outlook | 2026-08-10 via existing Outlook thread | Awaiting reply |
+| A5 | Cloned Apparition | clonedapparition@gmail.com | CONTACTED | 2026-08-07 via Outlook | 2026-08-10 due | Awaiting reply |
+| A6 | When Rivers Meet | info@whenriversmeet.co.uk | CONTACTED | 2026-08-07 via Outlook | 2026-08-10 due | Awaiting reply |
 | X1 | ORO | oroband@email.com | BOUNCED | 2026-08-07 via Outlook | — | Recipient server rejected address; alternate route required |
 | B1 | HAINE | Official website/social | QUALIFIED | — | — | — |
 | B2 | Stigmata | Official website/social | QUALIFIED | — | — | — |
@@ -63,7 +68,8 @@ Do not build an enormous unqualified list. Work a small queue completely.
 
 ## Metrics
 - Qualified prospects: 13
-- Successful outreach attempts: 6
+- Successful initial outreach attempts: 6
+- Follow-ups sent: 4
 - Bounced/failed delivery: 1
 - Replies: 0
 - Positive replies: 0
@@ -79,8 +85,9 @@ Initial test target: 20 successfully delivered, carefully targeted contacts. Fai
 - No promises of streams, followers or sales.
 - No paid advertising until the organic sales path works.
 - No new product features unless they directly unblock a sale or fulfillment.
-- Never mark CONTACTED, PAID, or DELIVERED unless it actually happened.
+- Never mark CONTACTED, REPLIED, INTERESTED, PAYMENT SENT, PAID, or DELIVERED unless it actually happened.
 - Never count a bounced email as successful outreach.
+- Never follow up after a decline or on an address already known to have bounced.
 
 ## Source of truth
 - `docs/SALES_PIPELINE.md` = status and operating process.
