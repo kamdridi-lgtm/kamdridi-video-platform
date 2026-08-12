@@ -162,3 +162,27 @@ Do not fabricate Dropbox/Drive/SoundCloud links and do not guess which historica
 5. Locate and verify exact broadcast masters for Too Fast Too Young and 17 FOR EVER Australia.
 6. Keep Brasil booklet, Australia maxi, Salieri’s Hands, War Machines ACT II and Twice Upon a Time strictly separated.
 7. Bring back any request involving master delivery, contract, rights, AI status, publishing split, exclusivity or payment before committing.
+## Verified radio action — 2026-08-12
+
+### KUAA 99.9 FM — Salt Lake City, USA
+- Official current contact page verified: KUAA welcomes independent artists and labels for airplay consideration and asks for artist information plus streaming/download links at `music@kuaafm.org`.
+- Duplicate/bounce preflight: no prior KUAA recipient was found in the reviewed Outlook Sent Items set from 2026-08-07 onward; no KUAA record was found in the canonical outreach registry or repository commit search; no known bounce exists for this address.
+- Track selected: `Too Fast Too Young` — accessible rock fit for a broad independent/community station.
+- Public distribution metadata checked on 2026-08-12: genre `Rock`, `trackExplicitness: notExplicit`, duration 186120 ms.
+- Public stream sent: `https://www.youtube.com/watch?v=zfAtPQVU6oo`.
+- Artist page sent: `https://kamdridi.com`.
+- Press page sent: `https://kamdridi.com/press`.
+- Outlook Sent Items evidence: subject `KAM DRIDI — Too Fast Too Young`, recipient `music@kuaafm.org`, timestamp `2026-08-12T07:40:20Z`.
+- First post-send check found no nondelivery report in Inbox, Junk or Deleted Items after the send timestamp.
+- Current truth status: **SENT / NO IMMEDIATE BOUNCE OBSERVED**.
+- This is not proof of final delivery, opening, listening, reply, library add or airplay.
+
+### War Machines public-file QA — DO NOT USE CURRENT SITE MP3 FOR OUTREACH
+- Public path checked: `https://kamdridi.com/audio/radio/01-war-machines-radio.mp3`.
+- Production response was HTTP 200, but direct file inspection found MP3 / 320 kbps / 48 kHz / stereo, duration `415.584 s`, size `16624470` bytes.
+- Its embedded comment contains Suno clip ID `7d0de79c-c8fd-4d3b-9e85-9e8f6d8a0b01`; the current public Suno page for that ID is titled `Memo (Remix)`.
+- That metadata and duration do not match the distributed `War Machines (Radio Edit)` duration (~269.96 s). This does not prove the audio identity by itself, but it is a material conflict.
+- Current operational rule: **HOLD / DO NOT SUBMIT THIS PUBLIC MP3** until it is compared against and replaced by the approved radio master.
+- Approved Drive radio-copy metadata remains: `KAM DRIDI - War Machines - Radio 320.mp3`, file ID `1Jg4UMEFghUSlC6_OpFw6Kn_FKU17Bt6R`, MIME `audio/mpeg`, size `10801124` bytes. Existing logs document MP3 / 320 kbps / 48 kHz / stereo.
+- Do not send that Drive link to a recipient unless recipient-level access is verified first.
+
