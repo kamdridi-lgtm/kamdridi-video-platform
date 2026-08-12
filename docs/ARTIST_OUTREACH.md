@@ -62,6 +62,11 @@ Separate unreleased concept. Do not pitch audio until playable masters are ident
 - One follow-up maximum unless recipient engages.
 - Never auto-accept contracts, publishing, licensing, exclusivity, rights declarations or AI-status attestations.
 
+## Verified delivery correction — 2026-08-12
+- **synCH** — `ch@synchsynch.net` — **BOUNCED / delivery failed**. Outlook received a non-delivery report on 2026-08-11 at 02:46:53 UTC for the subject “KAM DRIDI — independent cinematic hard rock / sync representation consideration.”
+- Do not count this attempt as delivered or as a contacted target. Do not retry the same address unless a fresh official route is verified.
+- This later-wave correction does not change the 2026-08-07 batch counts below.
+
 ## Outreach sent — 2026-08-07
 | # | Recipient | Type | Lead angle | Verified status |
 |---:|---|---|---|---|
